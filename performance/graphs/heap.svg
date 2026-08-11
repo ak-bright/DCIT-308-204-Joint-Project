@@ -1,0 +1,42 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='820' height='500' font-family='Segoe UI, Arial, sans-serif'>
+<rect width='100%' height='100%' fill='white'/>
+<text x='410.0' y='30.0' font-size='18' fill='#222' text-anchor='middle' font-weight='bold'>Binary heap: build &amp; dispatch vs input size</text>
+<line x1='90.0' y1='60.0' x2='90.0' y2='430.0' stroke='#888'/>
+<line x1='90.0' y1='430.0' x2='610.0' y2='430.0' stroke='#888'/>
+<line x1='90.0' y1='430.0' x2='610.0' y2='430.0' stroke='#eee'/>
+<text x='82.0' y='434.0' font-size='11' fill='#555' text-anchor='end'>0.0</text>
+<text x='90.0' y='450.0' font-size='11' fill='#555' text-anchor='middle'>100.0</text>
+<line x1='90.0' y1='356.0' x2='610.0' y2='356.0' stroke='#eee'/>
+<text x='82.0' y='360.0' font-size='11' fill='#555' text-anchor='end'>1.2</text>
+<text x='194.0' y='450.0' font-size='11' fill='#555' text-anchor='middle'>2080</text>
+<line x1='90.0' y1='282.0' x2='610.0' y2='282.0' stroke='#eee'/>
+<text x='82.0' y='286.0' font-size='11' fill='#555' text-anchor='end'>2.4</text>
+<text x='298.0' y='450.0' font-size='11' fill='#555' text-anchor='middle'>4060</text>
+<line x1='90.0' y1='208.0' x2='610.0' y2='208.0' stroke='#eee'/>
+<text x='82.0' y='212.0' font-size='11' fill='#555' text-anchor='end'>3.6</text>
+<text x='402.0' y='450.0' font-size='11' fill='#555' text-anchor='middle'>6040</text>
+<line x1='90.0' y1='134.0' x2='610.0' y2='134.0' stroke='#eee'/>
+<text x='82.0' y='138.0' font-size='11' fill='#555' text-anchor='end'>4.8</text>
+<text x='506.0' y='450.0' font-size='11' fill='#555' text-anchor='middle'>8020</text>
+<line x1='90.0' y1='60.0' x2='610.0' y2='60.0' stroke='#eee'/>
+<text x='82.0' y='64.0' font-size='11' fill='#555' text-anchor='end'>5.99</text>
+<text x='610.0' y='450.0' font-size='11' fill='#555' text-anchor='middle'>10000</text>
+<text x='350.0' y='482.0' font-size='13' fill='#333' text-anchor='middle'>n (elements)</text>
+<text x='20' y='245.0' font-size='13' fill='#333' transform='rotate(-90 20 245.0)' text-anchor='middle'>time (ms)</text>
+<circle cx='90.0' cy='428.49' r='3' fill='#1f77b4'/>
+<circle cx='111.01' cy='424.25' r='3' fill='#1f77b4'/>
+<circle cx='137.27' cy='418.89' r='3' fill='#1f77b4'/>
+<circle cx='347.37' cy='366.07' r='3' fill='#1f77b4'/>
+<circle cx='610.0' cy='302.87' r='3' fill='#1f77b4'/>
+<polyline fill='none' stroke='#1f77b4' stroke-width='2' points='90.0,428.49 111.01,424.25 137.27,418.89 347.37,366.07 610.0,302.87 '/>
+<line x1='630.0' y1='70.0' x2='655.0' y2='70.0' stroke='#1f77b4'/>
+<text x='660.0' y='74.0' font-size='12' fill='#333' text-anchor='start'>build (n inserts)</text>
+<circle cx='90.0' cy='427.42' r='3' fill='#d62728'/>
+<circle cx='111.01' cy='418.7' r='3' fill='#d62728'/>
+<circle cx='137.27' cy='405.79' r='3' fill='#d62728'/>
+<circle cx='347.37' cy='251.53' r='3' fill='#d62728'/>
+<circle cx='610.0' cy='60.0' r='3' fill='#d62728'/>
+<polyline fill='none' stroke='#d62728' stroke-width='2' points='90.0,427.42 111.01,418.7 137.27,405.79 347.37,251.53 610.0,60.0 '/>
+<line x1='630.0' y1='92.0' x2='655.0' y2='92.0' stroke='#d62728'/>
+<text x='660.0' y='96.0' font-size='12' fill='#333' text-anchor='start'>dispatch (n extracts)</text>
+</svg>
