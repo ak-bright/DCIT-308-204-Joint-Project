@@ -1,0 +1,15 @@
+# Compiled Java output
+/out/
+*.class
+
+# SQLite database file generated at runtime
+/database/hospital.db
+*.db-journal
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Keep the big dependency jars OUT of git history (downloaded by scripts/fetch-deps)
+/lib/*.jar
