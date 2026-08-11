@@ -1,11 +1,10 @@
-# database/ — Owner: Database Schema & Integration Lead (Role 4)
+# database/
 
-Drop here:
-- schema.sql        (CREATE TABLE statements for: locations, roads,
-                      service_requests, resources, algorithm_runs, audit_events)
-- import-script.*   (loads /data/*.csv into the database)
-- db-documentation.md (one paragraph per table: purpose, keys, relationships)
+seed-data/    Owner: Database Team (2 people) — cleaned, formatted CSVs copied from
+              /data/, matching the exact column headers Bright specifies. No schema
+              design needed — that part is Bright's, via Claude Code.
+schema.sql    Owner: Bright, generated via Claude Code once seed-data/ is ready.
 
-DUE: Day 4 (depends on /data/ CSVs landing Day 3).
+DUE (Database Team): Day 4, depends on /data/ raw files landing Day 3.
 
 STATUS: empty

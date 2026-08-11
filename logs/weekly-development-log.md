@@ -1,5 +1,6 @@
-# Weekly Development Log
-Required submission item — keep this updated throughout, don't backfill at the end.
+# Weekly Development Log — Owner: Logistics, Communication & Attendance Coordinator
+Collect one line per member each evening. Required submission item — keep it updated
+throughout, don't backfill at the end.
 
 ## Week 1
 - Progress:

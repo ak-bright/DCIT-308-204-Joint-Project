@@ -1,10 +1,12 @@
-# testing/ — Owner: Testing & Correctness Lead (Role 7)
+# testing/ — Owner: QA / Manual Testing Team (2 people)
 
-- test-plan.md        (40+ unit tests: normal / boundary / invalid per structure & algorithm)
-- trace-tables/       (binary search, insertion sort, merge/quicksort, Dijkstra, Kruskal/Prim, DP table)
-- proof-sketches/      (loop invariant, induction/recursion proof, greedy-or-DP correctness idea)
-- counterexamples.md  (one greedy failure, one invalid-precondition case)
+Bright will drop a plain-language checklist here once the first build is ready
+(around Day 6) — one line per console-menu feature to try. Work through it, note
+whether each item worked, and describe anything unexpected in plain English
+(no code knowledge needed). Screenshots help.
 
-DUE: test-plan.md Day 5. JUnit tests contributed to /src/test/java from Day 6 onward.
+Drop your results as: manual-qa-log.md
+
+DUE: Day 6-8 (test as builds arrive; re-test anything Bright marks fixed).
 
 STATUS: empty

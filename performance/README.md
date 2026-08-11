@@ -1,10 +1,9 @@
-# performance/ — Owner: Performance & Empirical Analysis Lead (Role 8)
+# performance/ — Owner: Bright, via Claude Code
 
-- experiment-plan.md     (input sizes, machine spec, methodology — 3 runs averaged)
-- experiment-results/    (raw CSV timings per experiment)
-- graphs/                (line graphs comparing algorithms)
-- interpretation.md      (theory vs. observed runtime, explain any mismatch)
+Raw experiment CSVs, graphs, and the theory-vs-observed interpretation. No team
+deliverable here — Bright generates this once the system is integration-frozen
+(Day 7) and running on real data.
 
-DUE: experiment-plan.md Day 5. Results + graphs + interpretation Day 8.
+DUE: Day 8.
 
 STATUS: empty
