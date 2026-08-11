@@ -54,9 +54,11 @@ case "$cmd" in
   test)
     compile_test
     echo "==> Running JUnit 5 test suite"
+    # The SQLite/SLF4J jars must be on the launcher classpath too, so the
+    # database integration tests can load the JDBC driver at runtime.
     java -jar lib/junit-platform-console-standalone-1.10.2.jar \
-         -cp "${MAIN_OUT}${SEP}${TEST_OUT}" --scan-classpath \
-         --details=tree
+         -cp "${MAIN_OUT}${SEP}${TEST_OUT}${SEP}${LIBS}" \
+         --scan-classpath="${TEST_OUT}" --details=tree
     ;;
   run)
     compile_main
@@ -72,7 +74,8 @@ case "$cmd" in
     compile_test
     echo "==> Running JUnit 5 test suite"
     java -jar lib/junit-platform-console-standalone-1.10.2.jar \
-         -cp "${MAIN_OUT}${SEP}${TEST_OUT}" --scan-classpath --details=tree
+         -cp "${MAIN_OUT}${SEP}${TEST_OUT}${SEP}${LIBS}" \
+         --scan-classpath="${TEST_OUT}" --details=tree
     ;;
   *) echo "Unknown command: $cmd"; exit 1 ;;
 esac

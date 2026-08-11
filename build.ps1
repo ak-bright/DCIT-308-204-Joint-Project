@@ -54,7 +54,7 @@ switch ($Cmd) {
     "test" {
         Compile-Test
         Write-Host "==> Running JUnit 5 test suite"
-        & java -jar lib\junit-platform-console-standalone-1.10.2.jar -cp "$MAIN_OUT$SEP$TEST_OUT" --scan-classpath --details=tree
+        & java -jar lib\junit-platform-console-standalone-1.10.2.jar -cp "$MAIN_OUT$SEP$TEST_OUT$SEP$LIBS" "--scan-classpath=$TEST_OUT" --details=tree
     }
     "run" {
         Compile-Main
@@ -69,7 +69,7 @@ switch ($Cmd) {
     "all" {
         Compile-Test
         Write-Host "==> Running JUnit 5 test suite"
-        & java -jar lib\junit-platform-console-standalone-1.10.2.jar -cp "$MAIN_OUT$SEP$TEST_OUT" --scan-classpath --details=tree
+        & java -jar lib\junit-platform-console-standalone-1.10.2.jar -cp "$MAIN_OUT$SEP$TEST_OUT$SEP$LIBS" "--scan-classpath=$TEST_OUT" --details=tree
     }
     default { Write-Host "Unknown command: $Cmd"; exit 1 }
 }
