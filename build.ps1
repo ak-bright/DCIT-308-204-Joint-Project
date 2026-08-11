@@ -33,7 +33,7 @@ function Compile-Main {
     New-Item -ItemType Directory -Force -Path $MAIN_OUT | Out-Null
     $srcs = Get-ChildItem -Recurse -Filter *.java src\main\java | ForEach-Object { $_.FullName }
     $srcs | Set-Content -Encoding utf8 out\sources.txt
-    & javac -d $MAIN_OUT -cp $LIBS "@out\sources.txt"
+    & javac -encoding UTF-8 -d $MAIN_OUT -cp $LIBS "@out\sources.txt"
     if ($LASTEXITCODE -ne 0) { throw "main compile failed" }
     Write-Host "    done -> $MAIN_OUT"
 }
@@ -44,7 +44,7 @@ function Compile-Test {
     New-Item -ItemType Directory -Force -Path $TEST_OUT | Out-Null
     $srcs = Get-ChildItem -Recurse -Filter *.java src\test\java | ForEach-Object { $_.FullName }
     $srcs | Set-Content -Encoding utf8 out\test-sources.txt
-    & javac -d $TEST_OUT -cp "$LIBS$SEP$MAIN_OUT" "@out\test-sources.txt"
+    & javac -encoding UTF-8 -d $TEST_OUT -cp "$LIBS$SEP$MAIN_OUT" "@out\test-sources.txt"
     if ($LASTEXITCODE -ne 0) { throw "test compile failed" }
     Write-Host "    done -> $TEST_OUT"
 }

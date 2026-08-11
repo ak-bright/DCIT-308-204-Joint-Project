@@ -35,7 +35,7 @@ compile_main() {
   mkdir -p "$MAIN_OUT"
   # Collect every .java under src/main/java into a single argfile for javac.
   find src/main/java -name '*.java' > out/sources.txt
-  javac -d "$MAIN_OUT" -cp "$LIBS" @out/sources.txt
+  javac -encoding UTF-8 -d "$MAIN_OUT" -cp "$LIBS" @out/sources.txt
   echo "    done -> $MAIN_OUT"
 }
 
@@ -44,7 +44,7 @@ compile_test() {
   echo "==> Compiling test sources"
   mkdir -p "$TEST_OUT"
   find src/test/java -name '*.java' > out/test-sources.txt
-  javac -d "$TEST_OUT" -cp "${LIBS}${SEP}${MAIN_OUT}" @out/test-sources.txt
+  javac -encoding UTF-8 -d "$TEST_OUT" -cp "${LIBS}${SEP}${MAIN_OUT}" @out/test-sources.txt
   echo "    done -> $TEST_OUT"
 }
 
