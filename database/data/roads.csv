@@ -1,0 +1,209 @@
+road_code,name,from_location_code,to_location_code,length_m,road_type,surface,is_bidirectional,speed_limit_kph,condition_rating,is_active
+RD-0001,Balme Library – Department of Economics Link,balme-library,econs-dept,113.8,footpath,concrete,1,5.0,1,1
+RD-0002,Balme Library – Economic Policy Management Programme O Link,balme-library,economic-policy,161.4,service,asphalt,1,20.0,2,1
+RD-0003,Balme Library – Ghana Korea Information Access Centre Link,balme-library,ghkorea-info,81.5,footpath,concrete,1,5.0,3,1
+RD-0004,Great Hall – Research and Innovation Office Complex Link,great-hall,research-office,566.4,minor,asphalt,1,30.0,5,0
+RD-0005,Great Hall – Merian Institute for Advanced Studies  Link,great-hall,MIASA,757.3,major,asphalt,1,50.0,4,1
+RD-0006,Great Hall – Commonwealth Hall Link,great-hall,commonwealth-hall,459.1,minor,asphalt,1,30.0,4,1
+RD-0007,College of Humanities – UG School of Law Link,humanities,law-school,155.5,service,concrete,1,20.0,4,1
+RD-0008,College of Humanities – Department of Educational Studies and  Link,humanities,education-dept,180.9,service,asphalt,1,20.0,1,1
+RD-0009,College of Humanities – International Programmes Office Link,humanities,inter-prog-office,45.5,footpath,paved_stone,1,5.0,1,1
+RD-0010,Department of Computer Science – UG School of Law Link,computer-science,law-school,107.0,footpath,concrete,1,5.0,4,1
+RD-0011,"Department of Computer Science – Institute of Statistical, Social and E Link",computer-science,isser,84.3,footpath,concrete,1,5.0,4,1
+RD-0012,Department of Computer Science – Department of Biomedical Engineering Link,computer-science,biomed-dept,186.3,service,concrete,1,20.0,4,1
+RD-0013,Department of Computer Science – Department of Mathematics Link,computer-science,maths-dept,101.5,footpath,paved_stone,1,5.0,4,1
+RD-0014,Department of Computer Science – Department of Statistics and Actuarial Link,computer-science,stats-dept,104.1,footpath,paved_stone,1,5.0,4,1
+RD-0015,Department of Computer Science – School of Engineering Sciences Link,computer-science,engineering,164.9,service,concrete,1,20.0,5,1
+RD-0016,University of Ghana Business School – Bani Hostel Link,business-school,bani-hostel,638.9,minor,asphalt,1,30.0,4,1
+RD-0017,University of Ghana Business School – Pizza King Link,business-school,pent food spot1-info,437.6,minor,asphalt,1,30.0,3,1
+RD-0018,University of Ghana Business School – Bobalicious Spot Link,business-school,pent food spot2-info,508.3,minor,asphalt,1,30.0,4,1
+RD-0019,University of Ghana Business School – Sweet Top Bites Link,business-school,pent food spot3-info,427.7,minor,asphalt,1,30.0,2,1
+RD-0020,Department of Geography and Resource D – Department of Animal Science Link,geography-dept,animal-science-dept,149.4,service,concrete,1,20.0,4,1
+RD-0021,Department of Geography and Resource D – School of Agriculture Link,geography-dept,agric-faculty,136.0,service,asphalt,1,20.0,3,1
+RD-0022,Department of Geography and Resource D – CERSGIS – Remote Sensing & GIS Lab Link,geography-dept,CERGIS,67.7,footpath,concrete,1,5.0,3,1
+RD-0023,UG School of Law – Department of Biomedical Engineering Link,law-school,biomed-dept,211.9,service,asphalt,1,20.0,5,1
+RD-0024,UG School of Law – Department of Mathematics Link,law-school,maths-dept,124.6,service,concrete,1,20.0,2,1
+RD-0025,UG School of Law – Department of Statistics and Actuarial Link,law-school,stats-dept,90.1,footpath,paved_stone,1,5.0,3,1
+RD-0026,UG School of Law – School of Engineering Sciences Link,law-school,engineering,171.5,service,concrete,1,20.0,1,1
+RD-0027,Department of Chemistry – Department of Home Science Link,chemistry-dept,home-science,118.9,footpath,concrete,1,5.0,2,1
+RD-0028,Department of Chemistry – Centre for International Affairs Link,chemistry-dept,inter-affairs,195.9,service,concrete,1,20.0,4,1
+RD-0029,Department of Chemistry – Department of Plant and Environmental  Link,chemistry-dept,plant-&-envt-biology,201.2,service,asphalt,1,20.0,3,1
+RD-0030,Department of Chemistry – ECOWAS Coastal & Marine Resources Mana Link,chemistry-dept,ecowas-coastal-marine,184.4,service,concrete,1,20.0,5,1
+RD-0031,Department of Home Science – Centre for International Affairs Link,home-science,inter-affairs,96.0,footpath,concrete,1,5.0,2,1
+RD-0032,Department of Home Science – ECOWAS Coastal & Marine Resources Mana Link,home-science,ecowas-coastal-marine,87.4,footpath,concrete,1,5.0,5,1
+RD-0033,Department of Political Science – Department of Psychology Link,political-science,psychology,61.6,footpath,paved_stone,1,5.0,3,1
+RD-0034,Department of Political Science – Department of Plant and Environmental  Link,political-science,plant-&-envt-biology,118.8,footpath,paved_stone,1,5.0,3,1
+RD-0035,Department of Political Science – Mfodwo Complex (N Block) Link,political-science,mfodwo,78.9,footpath,paved_stone,1,5.0,1,1
+RD-0036,Department of Psychology – Department of Information Studies Link,psychology,info-studies,74.8,footpath,concrete,1,5.0,3,0
+RD-0037,Department of Psychology – Department of Plant and Environmental  Link,psychology,plant-&-envt-biology,184.8,service,concrete,1,20.0,2,1
+RD-0038,Department of Psychology – Mfodwo Complex (N Block) Link,psychology,mfodwo,90.3,footpath,concrete,1,5.0,3,1
+RD-0039,Department of Information Studies – Centre for Climate Change and Sustaina Link,info-studies,c3ss,224.9,service,asphalt,1,20.0,5,1
+RD-0040,Department of Information Studies – Mfodwo Complex (N Block) Link,info-studies,mfodwo,90.1,footpath,concrete,1,5.0,4,1
+RD-0041,Department of Information Studies – School of Social Sciences Link,info-studies,socioso,31.8,footpath,concrete,1,5.0,4,1
+RD-0042,Department of Information Studies – CSPS - Centre for Social Policy Studie Link,info-studies,CSPS,83.8,footpath,concrete,1,5.0,4,1
+RD-0043,Department of Animal Biology – Department of Marine and Fisheries Sci Link,animal-biology,marine-&-fisheries,123.0,service,asphalt,1,20.0,5,1
+RD-0044,Department of Animal Biology – Department of Plant and Environmental  Link,animal-biology,plant-&-envt-biology,206.4,service,asphalt,1,20.0,4,1
+RD-0045,Department of Animal Biology – Mfodwo Complex (N Block) Link,animal-biology,mfodwo,192.8,service,concrete,1,20.0,3,1
+RD-0046,Department of Marine and Fisheries Sci – School of Pharmacy Link,marine-&-fisheries,pharmacy-school,126.2,service,concrete,1,20.0,4,1
+RD-0047,Department of Marine and Fisheries Sci – GCB Lecture Building Link,marine-&-fisheries,GCB-lecture-hall,181.2,service,asphalt,1,20.0,2,1
+RD-0048,Department of Educational Studies and  – Department of Teacher Education Link,education-dept,teacher-education,36.8,footpath,paved_stone,1,5.0,4,1
+RD-0049,Department of Educational Studies and  – International Programmes Office Link,education-dept,inter-prog-office,137.7,service,concrete,1,20.0,4,1
+RD-0050,Department of Educational Studies and  – Jones Quartey Building (JQB) Link,education-dept,jqb,125.9,service,concrete,1,20.0,4,1
+RD-0051,Department of Educational Studies and  – Department of Archaeology Link,education-dept,archaeology,133.0,service,asphalt,1,20.0,3,1
+RD-0052,Department of Teacher Education – Jones Quartey Building (JQB) Link,teacher-education,jqb,134.8,service,asphalt,1,20.0,3,1
+RD-0053,Department of Teacher Education – Department of Archaeology Link,teacher-education,archaeology,119.1,footpath,paved_stone,1,5.0,3,1
+RD-0054,Department of Teacher Education – Legon Hospital Link,teacher-education,hospital,444.3,minor,asphalt,1,30.0,4,1
+RD-0055,International Programmes Office – Jones Quartey Building (JQB) Link,inter-prog-office,jqb,177.8,service,asphalt,1,20.0,4,1
+RD-0056,Jones Quartey Building (JQB) – Department of Archaeology Link,jqb,archaeology,115.5,footpath,paved_stone,1,5.0,4,1
+RD-0057,Jones Quartey Building (JQB) – CERSGIS – Remote Sensing & GIS Lab Link,jqb,CERGIS,187.9,service,asphalt,1,20.0,3,1
+RD-0058,Institute of African Studies – Department of Adult Education Link,africa-studies,adult-edu,123.3,service,asphalt,1,20.0,5,1
+RD-0059,Institute of African Studies – School of Continuing and Distance Educ Link,africa-studies,cont-&-dist-school,119.2,footpath,paved_stone,1,5.0,3,0
+RD-0060,Institute of African Studies – Department of Music Link,africa-studies,music-dept,283.3,service,asphalt,1,20.0,4,1
+RD-0061,Institute of African Studies – CERSGIS – Remote Sensing & GIS Lab Link,africa-studies,CERGIS,133.2,service,concrete,1,20.0,3,1
+RD-0062,Institute of African Studies – School of Performing Arts Link,africa-studies,performing-arts,143.5,service,concrete,1,20.0,4,0
+RD-0063,Department of Adult Education – Department of Archaeology Link,adult-edu,archaeology,49.6,footpath,paved_stone,1,5.0,4,1
+RD-0064,Department of Adult Education – School of Continuing and Distance Educ Link,adult-edu,cont-&-dist-school,101.2,footpath,concrete,1,5.0,4,1
+RD-0065,Department of Adult Education – Legon Hospital Link,adult-edu,hospital,469.3,minor,asphalt,1,30.0,2,1
+RD-0066,Department of Archaeology – School of Continuing and Distance Educ Link,archaeology,cont-&-dist-school,135.8,service,concrete,1,20.0,4,1
+RD-0067,School of Continuing and Distance Educ – Department of Music Link,cont-&-dist-school,music-dept,232.9,service,concrete,1,20.0,1,1
+RD-0068,School of Continuing and Distance Educ – School of Performing Arts Link,cont-&-dist-school,performing-arts,157.3,service,concrete,1,20.0,4,1
+RD-0069,School of Continuing and Distance Educ – Legon Hospital Link,cont-&-dist-school,hospital,456.9,minor,asphalt,1,30.0,3,1
+RD-0070,Department of Earth Science (Geology) – Centre for International Affairs Link,geology-dept,inter-affairs,146.3,service,asphalt,1,20.0,4,1
+RD-0071,Department of Earth Science (Geology) – Department of Physics Link,geology-dept,physics-dept,144.2,service,asphalt,1,20.0,4,1
+RD-0072,Department of Earth Science (Geology) – Department of Soil Science Link,geology-dept,soil-science,137.8,service,concrete,1,20.0,5,1
+RD-0073,Department of Earth Science (Geology) – Department of Family and Consumer Scie Link,geology-dept,fam-and-consumer,138.5,service,concrete,1,20.0,3,1
+RD-0074,Centre for International Affairs – ECOWAS Coastal & Marine Resources Mana Link,inter-affairs,ecowas-coastal-marine,91.9,footpath,concrete,1,5.0,5,1
+RD-0075,Department of Physics – Department of Soil Science Link,physics-dept,soil-science,172.0,service,asphalt,1,20.0,2,1
+RD-0076,Department of Physics – Akuafo Hall Link,physics-dept,akuafo-hall,122.9,service,concrete,1,20.0,3,0
+RD-0077,Department of Plant and Environmental  – Mfodwo Complex (N Block) Link,plant-&-envt-biology,mfodwo,138.7,service,asphalt,1,20.0,3,1
+RD-0078,School of Pharmacy – Department of Biochemistry Link,pharmacy-school,biochem-dept,117.8,footpath,concrete,1,5.0,4,1
+RD-0079,School of Pharmacy – School of Nursing and Midwifery Link,pharmacy-school,nursing-and-midwifery,119.0,footpath,paved_stone,1,5.0,4,1
+RD-0080,School of Pharmacy – School of Graduate Studies Link,pharmacy-school,GRASAG,222.1,service,concrete,1,20.0,5,1
+RD-0081,Department of Biochemistry – School of Nursing and Midwifery Link,biochem-dept,nursing-and-midwifery,179.4,service,asphalt,1,20.0,5,1
+RD-0082,Department of Biochemistry – GCB Lecture Building Link,biochem-dept,GCB-lecture-hall,147.2,service,concrete,1,20.0,5,1
+RD-0083,School of Nursing and Midwifery – Research and Innovation Office Complex Link,nursing-and-midwifery,research-office,347.5,minor,asphalt,1,30.0,3,1
+RD-0084,School of Nursing and Midwifery – School of Graduate Studies Link,nursing-and-midwifery,GRASAG,117.6,footpath,concrete,1,5.0,3,1
+RD-0085,Department of French – Department of Sociology Link,french-dept,sociology-dept,173.7,service,asphalt,1,20.0,4,0
+RD-0086,Department of French – Department of History Link,french-dept,history-dept,153.2,service,asphalt,1,20.0,2,1
+RD-0087,Department of French – Department for the Study of Religions Link,french-dept,religions,52.7,footpath,paved_stone,1,5.0,5,1
+RD-0088,Department of French – Department of Philosophy and Classics Link,french-dept,philosophy-&-classics,83.5,footpath,concrete,1,5.0,4,1
+RD-0089,Department of French – Economic Policy Management Programme O Link,french-dept,economic-policy,99.2,footpath,concrete,1,5.0,5,1
+RD-0090,Department of French – Legon Hall Link,french-dept,legon-hall,112.0,footpath,paved_stone,1,5.0,3,1
+RD-0091,Department of French – Volta Hall Link,french-dept,volta-hall,187.7,service,asphalt,1,20.0,5,1
+RD-0092,"Institute of Statistical, Social and E – Department of Mathematics Link",isser,maths-dept,105.4,footpath,concrete,1,5.0,2,1
+RD-0093,"Institute of Statistical, Social and E – Department of Statistics and Actuarial Link",isser,stats-dept,129.9,service,asphalt,1,20.0,4,1
+RD-0094,Department of Animal Science – Department of Agricultural Economics a Link,animal-science-dept,agriecons-agricbusiness,41.0,footpath,concrete,1,5.0,5,1
+RD-0095,Department of Animal Science – School of Agriculture Link,animal-science-dept,agric-faculty,89.1,footpath,paved_stone,1,5.0,3,1
+RD-0096,Department of Animal Science – UG Creche and Kindergarten School Link,animal-science-dept,UG-creche-kg,98.8,footpath,paved_stone,1,5.0,3,1
+RD-0097,Department of Animal Science – School of Performing Arts Link,animal-science-dept,performing-arts,168.5,service,concrete,1,20.0,3,1
+RD-0098,Department of Agricultural Economics a – School of Agriculture Link,agriecons-agricbusiness,agric-faculty,92.7,footpath,concrete,1,5.0,4,1
+RD-0099,Department of Agricultural Economics a – Biotechnology Laboratory Link,agriecons-agricbusiness,biotech-lab,133.9,service,asphalt,1,20.0,3,1
+RD-0100,Department of Agricultural Economics a – Centre for Gender Studies and Advocacy Link,agriecons-agricbusiness,CEGENSA,93.0,footpath,concrete,1,5.0,5,1
+RD-0101,Department of Agricultural Economics a – UG Creche and Kindergarten School Link,agriecons-agricbusiness,UG-creche-kg,64.9,footpath,paved_stone,1,5.0,3,0
+RD-0102,School of Agriculture – Department of Family and Consumer Scie Link,agric-faculty,fam-and-consumer,40.8,footpath,concrete,1,5.0,4,1
+RD-0103,School of Agriculture – UG Creche and Kindergarten School Link,agric-faculty,UG-creche-kg,65.4,footpath,paved_stone,1,5.0,4,1
+RD-0104,Biotechnology Laboratory – Centre for Gender Studies and Advocacy Link,biotech-lab,CEGENSA,41.9,footpath,paved_stone,1,5.0,5,1
+RD-0105,Biotechnology Laboratory – UG Creche and Kindergarten School Link,biotech-lab,UG-creche-kg,127.5,service,concrete,1,20.0,3,1
+RD-0106,Centre for Gender Studies and Advocacy – UG Creche and Kindergarten School Link,CEGENSA,UG-creche-kg,93.4,footpath,paved_stone,1,5.0,4,1
+RD-0107,Department of Crop Science – Department of Soil Science Link,crop-science,soil-science,27.4,footpath,concrete,1,5.0,3,1
+RD-0108,Department of Crop Science – Department of Family and Consumer Scie Link,crop-science,fam-and-consumer,105.8,footpath,paved_stone,1,5.0,2,1
+RD-0109,Department of Crop Science – Akuafo Hall Link,crop-science,akuafo-hall,129.5,service,concrete,1,20.0,4,1
+RD-0110,Department of Music – School of Performing Arts Link,music-dept,performing-arts,201.8,service,concrete,1,20.0,5,1
+RD-0111,Department of Economics – Department of Philosophy and Classics Link,econs-dept,philosophy-&-classics,103.7,footpath,concrete,1,5.0,3,1
+RD-0112,Department of Economics – Economic Policy Management Programme O Link,econs-dept,economic-policy,85.6,footpath,concrete,1,5.0,3,1
+RD-0113,Department of Economics – Ghana Korea Information Access Centre Link,econs-dept,ghkorea-info,142.7,service,asphalt,1,20.0,3,1
+RD-0114,Research and Innovation Office Complex – School of Graduate Studies Link,research-office,GRASAG,279.4,service,concrete,1,20.0,4,1
+RD-0115,Research and Innovation Office Complex – Commonwealth Hall Link,research-office,commonwealth-hall,414.3,minor,asphalt,1,30.0,3,1
+RD-0116,Department of Biomedical Engineering – School of Engineering Sciences Link,biomed-dept,engineering,42.7,footpath,paved_stone,1,5.0,4,1
+RD-0117,Department of Biomedical Engineering – Pent Hostel Block A Link,biomed-dept,pent-hostel-block-a,289.5,service,concrete,1,20.0,4,1
+RD-0118,New N Block – Centre for Climate Change and Sustaina Link,N-block,c3ss,87.2,footpath,paved_stone,1,5.0,3,1
+RD-0119,New N Block – GCB Lecture Building Link,N-block,GCB-lecture-hall,154.0,service,concrete,1,20.0,3,1
+RD-0120,New N Block – School of Social Sciences Link,N-block,socioso,156.6,service,asphalt,1,20.0,4,1
+RD-0121,Centre for Climate Change and Sustaina – School of Social Sciences Link,c3ss,socioso,236.0,service,asphalt,1,20.0,4,1
+RD-0122,GCB Lecture Building – School of Social Sciences Link,GCB-lecture-hall,socioso,142.4,service,asphalt,1,20.0,5,1
+RD-0123,GCB Lecture Building – CSPS - Centre for Social Policy Studie Link,GCB-lecture-hall,CSPS,93.7,footpath,concrete,1,5.0,3,1
+RD-0124,Department of Sociology – Department of History Link,sociology-dept,history-dept,48.0,footpath,concrete,1,5.0,3,1
+RD-0125,Department of Sociology – Merian Institute for Advanced Studies  Link,sociology-dept,MIASA,399.0,minor,asphalt,1,30.0,3,1
+RD-0126,Department of Sociology – Legon Hall Link,sociology-dept,legon-hall,176.9,service,concrete,1,20.0,3,1
+RD-0127,Department of Sociology – Commonwealth Hall Link,sociology-dept,commonwealth-hall,360.1,minor,asphalt,1,30.0,3,1
+RD-0128,Department of Sociology – Volta Hall Link,sociology-dept,volta-hall,203.7,service,concrete,1,20.0,5,1
+RD-0129,School of Graduate Studies – Volta Hall Link,GRASAG,volta-hall,226.4,service,asphalt,1,20.0,3,1
+RD-0130,Department of Modern Languages – Maison Française Legon Link,modern-langs,maison-francaise,13.7,footpath,concrete,1,5.0,3,1
+RD-0131,Department of Modern Languages – Department of Philosophy and Classics Link,modern-langs,philosophy-&-classics,210.0,service,concrete,1,20.0,3,1
+RD-0132,Department of Modern Languages – Legon Hall Link,modern-langs,legon-hall,146.3,service,asphalt,1,20.0,4,1
+RD-0133,Department of History – Merian Institute for Advanced Studies  Link,history-dept,MIASA,382.3,minor,asphalt,1,30.0,4,1
+RD-0134,Department of History – Legon Hall Link,history-dept,legon-hall,148.4,service,concrete,1,20.0,4,1
+RD-0135,Merian Institute for Advanced Studies  – Commonwealth Hall Link,MIASA,commonwealth-hall,441.6,minor,asphalt,1,30.0,4,1
+RD-0136,Maison Française Legon – Department of Philosophy and Classics Link,maison-francaise,philosophy-&-classics,229.8,service,asphalt,1,20.0,2,1
+RD-0137,Maison Française Legon – Legon Hall Link,maison-francaise,legon-hall,150.5,service,concrete,1,20.0,2,1
+RD-0138,Maison Française Legon – Legon Hall Annex Link,maison-francaise,legon-hall-annex,265.9,service,concrete,1,20.0,4,1
+RD-0139,Department of Soil Science – Department of Family and Consumer Scie Link,soil-science,fam-and-consumer,89.2,footpath,paved_stone,1,5.0,4,1
+RD-0140,Department of Soil Science – Akuafo Hall Link,soil-science,akuafo-hall,124.8,service,concrete,1,20.0,4,1
+RD-0141,Department of Family and Consumer Scie – UG Creche and Kindergarten School Link,fam-and-consumer,UG-creche-kg,87.6,footpath,paved_stone,1,5.0,3,1
+RD-0142,Mfodwo Complex (N Block) – School of Social Sciences Link,mfodwo,socioso,87.3,footpath,concrete,1,5.0,4,1
+RD-0143,Mfodwo Complex (N Block) – CSPS - Centre for Social Policy Studie Link,mfodwo,CSPS,96.2,footpath,concrete,1,5.0,4,1
+RD-0144,School of Social Sciences – CSPS - Centre for Social Policy Studie Link,socioso,CSPS,48.7,footpath,paved_stone,1,5.0,3,1
+RD-0145,Department for the Study of Religions – Department of Philosophy and Classics Link,religions,philosophy-&-classics,28.5,footpath,paved_stone,1,5.0,3,1
+RD-0146,Department for the Study of Religions – Economic Policy Management Programme O Link,religions,economic-policy,61.0,footpath,concrete,1,5.0,5,1
+RD-0147,Department for the Study of Religions – Legon Hall Link,religions,legon-hall,90.6,footpath,paved_stone,1,5.0,4,1
+RD-0148,Department of Philosophy and Classics – Economic Policy Management Programme O Link,philosophy-&-classics,economic-policy,44.9,footpath,concrete,1,5.0,1,1
+RD-0149,Department of Philosophy and Classics – Legon Hall Link,philosophy-&-classics,legon-hall,108.7,footpath,concrete,1,5.0,5,1
+RD-0150,Economic Policy Management Programme O – Ghana Korea Information Access Centre Link,economic-policy,ghkorea-info,120.7,service,asphalt,1,20.0,4,1
+RD-0151,School of Public Health – West African Genetic Medicine Centre ( Link,public-health,WAGMC,348.1,minor,asphalt,1,30.0,4,1
+RD-0152,School of Public Health – Dr. Hilla Limann Hall Link,public-health,limann-hall,301.7,minor,asphalt,1,30.0,5,1
+RD-0153,School of Public Health – Alexander Kwapong Hall Link,public-health,kwapong-hall,378.2,minor,asphalt,1,30.0,3,1
+RD-0154,School of Public Health – University of Ghana Sports Stadium Link,public-health,UG-Stadium,463.0,minor,asphalt,1,30.0,3,1
+RD-0155,Department of Mathematics – Department of Statistics and Actuarial Link,maths-dept,stats-dept,42.3,footpath,paved_stone,1,5.0,4,1
+RD-0156,Department of Statistics and Actuarial – ECOWAS Coastal & Marine Resources Mana Link,stats-dept,ecowas-coastal-marine,158.1,service,asphalt,1,20.0,3,1
+RD-0157,West African Genetic Medicine Centre ( – Dr. Hilla Limann Hall Link,WAGMC,limann-hall,329.4,minor,asphalt,1,30.0,1,1
+RD-0158,West African Genetic Medicine Centre ( – Alexander Kwapong Hall Link,WAGMC,kwapong-hall,305.1,minor,asphalt,1,30.0,5,1
+RD-0159,West African Genetic Medicine Centre ( – Elizabeth Sey Hall Link,WAGMC,sey-hall,456.4,minor,asphalt,1,30.0,4,1
+RD-0160,West African Genetic Medicine Centre ( – Jean Nelson Akah Hall Link,WAGMC,jean-nelson-hall,532.0,minor,asphalt,1,30.0,5,1
+RD-0161,Commonwealth Hall – Volta Hall Link,commonwealth-hall,volta-hall,429.1,shuttle_route,asphalt,1,30.0,4,1
+RD-0162,Akuafo Hall Annex – Mensah Sarbah Hall Link,akuafo-hall-annex,mensah-sarbah-hall,306.7,minor,asphalt,1,30.0,4,1
+RD-0163,Akuafo Hall Annex – Mensah Sarbah Annex Link,akuafo-hall-annex,mensah-sarbah-annex,324.3,minor,asphalt,1,30.0,5,1
+RD-0164,Akuafo Hall Annex – Central Cafeteria Link,akuafo-hall-annex,cafeteria,191.4,service,asphalt,1,20.0,5,1
+RD-0165,Mensah Sarbah Hall – Legon Hall Annex Link,mensah-sarbah-hall,legon-hall-annex,229.2,service,concrete,1,20.0,4,1
+RD-0166,Mensah Sarbah Hall – Mensah Sarbah Annex Link,mensah-sarbah-hall,mensah-sarbah-annex,263.8,service,asphalt,1,20.0,4,1
+RD-0167,Mensah Sarbah Hall – Central Cafeteria Link,mensah-sarbah-hall,cafeteria,89.2,footpath,paved_stone,1,5.0,3,1
+RD-0168,Vikings Hostel – Mensah Sarbah Annex Link,vikings-hostel,mensah-sarbah-annex,169.9,service,concrete,1,20.0,3,1
+RD-0169,Vikings Hostel – Valco Trust Hostel Link,vikings-hostel,valco-trust-hostel,191.0,service,concrete,1,20.0,4,1
+RD-0170,Vikings Hostel – UG Banking Square Link,vikings-hostel,bank,191.8,service,concrete,1,20.0,3,1
+RD-0171,Vikings Hostel – University of Ghana Basic School Link,vikings-hostel,basicschool-info,327.0,minor,asphalt,1,30.0,4,1
+RD-0172,Vikings Hostel – Legon Nightmarket Link,vikings-hostel,nightmarket-info,267.3,service,asphalt,1,20.0,4,1
+RD-0173,Legon Hall Annex – Central Cafeteria Link,legon-hall-annex,cafeteria,198.1,service,asphalt,1,20.0,2,1
+RD-0174,Mensah Sarbah Annex – Valco Trust Hostel Link,mensah-sarbah-annex,valco-trust-hostel,259.8,service,asphalt,1,20.0,3,1
+RD-0175,Valco Trust Hostel – UG Banking Square Link,valco-trust-hostel,bank,265.5,service,asphalt,1,20.0,5,1
+RD-0176,Valco Trust Hostel – University of Ghana Basic School Link,valco-trust-hostel,basicschool-info,173.2,service,asphalt,1,20.0,2,1
+RD-0177,Valco Trust Hostel – Legon Nightmarket Link,valco-trust-hostel,nightmarket-info,284.1,service,asphalt,1,20.0,4,1
+RD-0178,Old Pentagon Blocks – Pent Hostel Block A Link,old-pentagon-blocks,pent-hostel-block-a,100.2,footpath,paved_stone,1,5.0,3,1
+RD-0179,Old Pentagon Blocks – Bobalicious Spot Link,old-pentagon-blocks,pent food spot2-info,182.0,service,concrete,1,20.0,4,1
+RD-0180,Old Pentagon Blocks – Sweet Top Bites Link,old-pentagon-blocks,pent food spot3-info,175.6,service,concrete,1,20.0,4,1
+RD-0181,Pent Hostel Block A – Pent Hostel Block B Link,pent-hostel-block-a,pent-hostel-block-b,175.5,service,asphalt,1,20.0,2,1
+RD-0182,Pent Hostel Block A – Bobalicious Spot Link,pent-hostel-block-a,pent food spot2-info,169.6,service,asphalt,1,20.0,4,1
+RD-0183,Pent Hostel Block B – Pent Hostel Block C Link,pent-hostel-block-b,pent-hostel-block-c,85.9,footpath,paved_stone,1,5.0,3,1
+RD-0184,Pent Hostel Block B – Evandy Hostel Link,pent-hostel-block-b,evandy-hostel,615.6,shuttle_route,asphalt,1,30.0,4,1
+RD-0185,Pent Hostel Block B – TF Hostel Link,pent-hostel-block-b,tf-hostel,1103.2,shuttle_route,asphalt,1,30.0,4,1
+RD-0186,Pent Hostel Block B – Pizza King Link,pent-hostel-block-b,pent food spot1-info,132.0,service,asphalt,1,20.0,4,1
+RD-0187,Pent Hostel Block B – Bobalicious Spot Link,pent-hostel-block-b,pent food spot2-info,118.4,footpath,paved_stone,1,5.0,3,1
+RD-0188,Pent Hostel Block C – Pizza King Link,pent-hostel-block-c,pent food spot1-info,52.9,footpath,concrete,1,5.0,3,1
+RD-0189,Pent Hostel Block C – Bobalicious Spot Link,pent-hostel-block-c,pent food spot2-info,41.5,footpath,paved_stone,1,5.0,4,1
+RD-0190,Evandy Hostel – Bani Hostel Link,evandy-hostel,bani-hostel,295.2,service,asphalt,1,20.0,4,1
+RD-0191,Evandy Hostel – TF Hostel Link,evandy-hostel,tf-hostel,445.7,shuttle_route,asphalt,1,30.0,4,1
+RD-0192,Bani Hostel – TF Hostel Link,bani-hostel,tf-hostel,580.5,shuttle_route,asphalt,1,30.0,3,1
+RD-0193,Jubilee Hall – International Student Hostel Link,jubilee-hall,ish-hostel,136.7,service,asphalt,1,20.0,4,1
+RD-0194,Jubilee Hall – UG Banking Square Link,jubilee-hall,bank,309.3,minor,asphalt,1,30.0,2,1
+RD-0195,Jubilee Hall – Legon Nightmarket Link,jubilee-hall,nightmarket-info,278.3,service,asphalt,1,20.0,4,1
+RD-0196,International Student Hostel – Dr. Hilla Limann Hall Link,ish-hostel,limann-hall,383.7,minor,asphalt,1,30.0,4,1
+RD-0197,International Student Hostel – University of Ghana Sports Stadium Link,ish-hostel,UG-Stadium,579.9,minor,asphalt,1,30.0,4,1
+RD-0198,International Student Hostel – Legon Nightmarket Link,ish-hostel,nightmarket-info,396.9,minor,asphalt,1,30.0,4,1
+RD-0199,Dr. Hilla Limann Hall – Alexander Kwapong Hall Link,limann-hall,kwapong-hall,113.1,footpath,concrete,1,5.0,3,1
+RD-0200,Dr. Hilla Limann Hall – University of Ghana Sports Stadium Link,limann-hall,UG-Stadium,608.5,minor,asphalt,1,30.0,3,1
+RD-0201,Alexander Kwapong Hall – Elizabeth Sey Hall Link,kwapong-hall,sey-hall,359.7,minor,asphalt,1,30.0,3,1
+RD-0202,Alexander Kwapong Hall – Jean Nelson Akah Hall Link,kwapong-hall,jean-nelson-hall,451.6,shuttle_route,asphalt,1,30.0,4,1
+RD-0203,Elizabeth Sey Hall – Jean Nelson Akah Hall Link,sey-hall,jean-nelson-hall,75.7,footpath,concrete,1,5.0,5,1
+RD-0204,UG Banking Square – Legon Nightmarket Link,bank,nightmarket-info,101.5,footpath,paved_stone,1,5.0,3,1
+RD-0205,University of Ghana Basic School – Legon Nightmarket Link,basicschool-info,nightmarket-info,275.7,service,concrete,1,20.0,5,1
+RD-0206,Pizza King – Bobalicious Spot Link,pent food spot1-info,pent food spot2-info,51.9,footpath,paved_stone,1,5.0,4,1
+RD-0207,Pizza King – Sweet Top Bites Link,pent food spot1-info,pent food spot3-info,177.6,service,concrete,1,20.0,4,1
+RD-0208,Bobalicious Spot – Sweet Top Bites Link,pent food spot2-info,pent food spot3-info,177.1,service,asphalt,1,20.0,3,1

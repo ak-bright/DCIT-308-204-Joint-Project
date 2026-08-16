@@ -1,0 +1,61 @@
+request_code,location_code,assigned_resource_code,category,priority,status,description,reported_by,reported_at,acknowledged_at,resolved_at
+SR-2026-0001,CSPS,,transport,medium,open,Shuttle stop signage damaged,hall.porter,2026-07-11 18:40:00,,
+SR-2026-0002,great-hall,RES-008,transport,high,resolved,Shuttle stop signage damaged,security.desk,2026-07-30 05:32:00,2026-07-30 06:41:00,2026-07-30 14:41:00
+SR-2026-0003,history-dept,RES-010,sanitation,low,in_progress,Blocked drain after heavy rainfall,shuttle.driver,2026-07-30 03:25:00,2026-07-30 04:17:00,
+SR-2026-0004,jqb,,it_support,low,open,Projector not connecting in the lecture theatre,hall.porter,2026-07-17 19:35:00,,
+SR-2026-0005,economic-policy,RES-003,security,medium,resolved,Faulty security light at the rear car park,security.desk,2026-07-12 20:17:00,2026-07-12 20:26:00,2026-07-13 11:26:00
+SR-2026-0006,religions,RES-002,utilities,medium,resolved,Intermittent power supply to the building,student.portal,2026-07-18 15:57:00,2026-07-18 18:14:00,2026-07-22 15:14:00
+SR-2026-0007,physics-dept,,transport,medium,open,Shuttle stop signage damaged,student.portal,2026-07-04 05:42:00,,
+SR-2026-0008,archaeology,RES-004,security,medium,resolved,Faulty security light at the rear car park,shuttle.driver,2026-06-19 12:14:00,2026-06-19 14:45:00,2026-06-21 05:45:00
+SR-2026-0009,hospital,RES-008,transport,medium,resolved,Shuttle stop signage damaged,facilities.hotline,2026-06-29 13:17:00,2026-06-29 16:22:00,2026-07-01 18:22:00
+SR-2026-0010,ecowas-coastal-marine,RES-002,maintenance,medium,resolved,Broken ceiling fan reported in the main hall,hall.porter,2026-07-29 04:56:00,2026-07-29 08:40:00,2026-08-02 06:40:00
+SR-2026-0011,research-office,,it_support,high,open,Projector not connecting in the lecture theatre,security.desk,2026-07-25 08:37:00,,
+SR-2026-0012,inter-affairs,RES-002,utilities,critical,assigned,Intermittent power supply to the building,faculty.officer,2026-06-19 23:04:00,2026-06-20 01:51:00,
+SR-2026-0013,MIASA,,utilities,critical,open,No running water in the washrooms,faculty.officer,2026-06-25 23:58:00,,
+SR-2026-0014,psychology,RES-011,it_support,low,resolved,Projector not connecting in the lecture theatre,faculty.officer,2026-07-12 21:10:00,2026-07-12 23:58:00,2026-07-16 01:58:00
+SR-2026-0015,home-science,,sanitation,low,open,Overflowing waste bins at the entrance,shuttle.driver,2026-07-27 04:43:00,,
+SR-2026-0016,hospital,RES-010,sanitation,medium,resolved,Blocked drain after heavy rainfall,security.desk,2026-06-23 08:29:00,2026-06-23 09:45:00,2026-06-23 14:45:00
+SR-2026-0017,kwapong-hall,RES-002,maintenance,high,in_progress,Cracked window pane on the first floor corridor,faculty.officer,2026-07-31 22:01:00,2026-08-01 00:26:00,
+SR-2026-0018,maths-dept,RES-002,maintenance,high,resolved,Broken ceiling fan reported in the main hall,hall.porter,2026-07-19 12:30:00,2026-07-19 15:08:00,2026-07-20 22:08:00
+SR-2026-0019,limann-hall,RES-010,sanitation,medium,resolved,Overflowing waste bins at the entrance,facilities.hotline,2026-07-27 13:01:00,2026-07-27 13:07:00,2026-07-31 04:07:00
+SR-2026-0020,commonwealth-hall,,sanitation,medium,open,Overflowing waste bins at the entrance,hall.porter,2026-07-20 01:13:00,,
+SR-2026-0021,religions,RES-008,transport,low,resolved,Shuttle stop signage damaged,facilities.hotline,2026-07-07 02:56:00,2026-07-07 06:50:00,2026-07-09 13:50:00
+SR-2026-0022,mfodwo,,medical,medium,resolved,Student reported feeling faint during lectures,shuttle.driver,2026-07-26 16:25:00,2026-07-26 20:11:00,2026-07-26 22:11:00
+SR-2026-0023,political-science,RES-004,security,high,in_progress,Unattended bag reported by a student,faculty.officer,2026-07-28 06:07:00,2026-07-28 09:14:00,
+SR-2026-0024,akuafo-hall,,transport,high,open,Shuttle stop signage damaged,faculty.officer,2026-06-25 16:00:00,,
+SR-2026-0025,ghkorea-info,RES-001,utilities,medium,resolved,Intermittent power supply to the building,facilities.hotline,2026-06-19 17:18:00,2026-06-19 17:49:00,2026-06-21 19:49:00
+SR-2026-0026,jubilee-hall,,transport,medium,resolved,Shuttle stop signage damaged,hall.porter,2026-07-22 16:53:00,2026-07-22 17:58:00,2026-07-26 15:58:00
+SR-2026-0027,cont-&-dist-school,RES-010,sanitation,medium,resolved,Blocked drain after heavy rainfall,facilities.hotline,2026-06-30 13:50:00,2026-06-30 17:38:00,2026-07-02 03:38:00
+SR-2026-0028,philosophy-&-classics,RES-002,utilities,high,resolved,Intermittent power supply to the building,facilities.hotline,2026-07-10 22:10:00,2026-07-11 01:00:00,2026-07-13 18:00:00
+SR-2026-0029,commonwealth-hall,,sanitation,high,resolved,Blocked drain after heavy rainfall,student.portal,2026-07-20 16:47:00,2026-07-20 17:26:00,2026-07-22 19:26:00
+SR-2026-0030,teacher-education,RES-002,utilities,medium,resolved,No running water in the washrooms,hall.porter,2026-07-13 13:52:00,2026-07-13 16:36:00,2026-07-16 07:36:00
+SR-2026-0031,archaeology,,maintenance,low,open,Cracked window pane on the first floor corridor,faculty.officer,2026-06-25 20:51:00,,
+SR-2026-0032,jean-nelson-hall,,sanitation,medium,open,Blocked drain after heavy rainfall,shuttle.driver,2026-07-23 06:23:00,,
+SR-2026-0033,biotech-lab,,sanitation,high,open,Blocked drain after heavy rainfall,facilities.hotline,2026-07-08 04:03:00,,
+SR-2026-0034,tf-hostel,RES-001,utilities,critical,assigned,No running water in the washrooms,shuttle.driver,2026-07-18 21:45:00,2026-07-18 23:56:00,
+SR-2026-0035,psychology,RES-004,security,low,resolved,Unattended bag reported by a student,student.portal,2026-06-23 11:34:00,2026-06-23 11:51:00,2026-06-25 13:51:00
+SR-2026-0036,WAGMC,RES-010,sanitation,low,in_progress,Overflowing waste bins at the entrance,facilities.hotline,2026-06-28 14:18:00,2026-06-28 16:53:00,
+SR-2026-0037,marine-&-fisheries,,security,medium,open,Faulty security light at the rear car park,hall.porter,2026-06-27 10:51:00,,
+SR-2026-0038,stats-dept,RES-004,security,low,resolved,Faulty security light at the rear car park,security.desk,2026-07-20 04:11:00,2026-07-20 07:25:00,2026-07-23 12:25:00
+SR-2026-0039,akuafo-hall,RES-010,sanitation,medium,resolved,Overflowing waste bins at the entrance,shuttle.driver,2026-06-22 04:12:00,2026-06-22 07:06:00,2026-06-26 01:06:00
+SR-2026-0040,volta-hall,RES-008,transport,high,resolved,Shuttle stop signage damaged,shuttle.driver,2026-07-16 00:40:00,2026-07-16 01:43:00,2026-07-18 23:43:00
+SR-2026-0041,plant-&-envt-biology,RES-002,maintenance,high,resolved,Broken ceiling fan reported in the main hall,student.portal,2026-07-11 15:26:00,2026-07-11 15:42:00,2026-07-11 17:42:00
+SR-2026-0042,geography-dept,RES-006,medical,medium,assigned,Student reported feeling faint during lectures,facilities.hotline,2026-07-18 02:33:00,2026-07-18 03:33:00,
+SR-2026-0043,history-dept,,medical,high,resolved,Student reported feeling faint during lectures,facilities.hotline,2026-07-17 21:51:00,2026-07-17 23:05:00,2026-07-21 08:05:00
+SR-2026-0044,chemistry-dept,RES-010,sanitation,medium,resolved,Overflowing waste bins at the entrance,security.desk,2026-06-22 13:16:00,2026-06-22 13:25:00,2026-06-24 13:25:00
+SR-2026-0045,pent-hostel-block-b,RES-001,utilities,high,assigned,No running water in the washrooms,faculty.officer,2026-07-27 09:48:00,2026-07-27 10:45:00,
+SR-2026-0046,pent-hostel-block-c,,security,critical,open,Faulty security light at the rear car park,facilities.hotline,2026-07-01 19:34:00,,
+SR-2026-0047,bani-hostel,RES-009,transport,low,in_progress,Shuttle stop signage damaged,student.portal,2026-06-26 05:50:00,2026-06-26 06:19:00,
+SR-2026-0048,tf-hostel,,utilities,low,open,No running water in the washrooms,student.portal,2026-07-04 03:07:00,,
+SR-2026-0049,inter-prog-office,,it_support,critical,open,Projector not connecting in the lecture theatre,facilities.hotline,2026-07-23 12:33:00,,
+SR-2026-0050,econs-dept,RES-010,sanitation,low,in_progress,Overflowing waste bins at the entrance,hall.porter,2026-07-29 00:49:00,2026-07-29 00:57:00,
+SR-2026-0051,animal-biology,RES-006,medical,low,resolved,Student reported feeling faint during lectures,security.desk,2026-06-19 18:41:00,2026-06-19 20:57:00,2026-06-23 01:57:00
+SR-2026-0052,agriecons-agricbusiness,RES-009,transport,low,resolved,Shuttle stop signage damaged,security.desk,2026-07-25 18:07:00,2026-07-25 20:53:00,2026-07-28 02:53:00
+SR-2026-0053,agric-faculty,RES-008,transport,low,in_progress,Shuttle stop signage damaged,facilities.hotline,2026-07-05 08:12:00,2026-07-05 11:55:00,
+SR-2026-0054,mfodwo,RES-006,medical,low,resolved,Student reported feeling faint during lectures,security.desk,2026-06-29 03:27:00,2026-06-29 03:47:00,2026-07-03 01:47:00
+SR-2026-0055,GRASAG,RES-005,medical,medium,resolved,Student reported feeling faint during lectures,faculty.officer,2026-07-03 17:10:00,2026-07-03 17:43:00,2026-07-04 00:43:00
+SR-2026-0056,econs-dept,RES-001,utilities,medium,resolved,Intermittent power supply to the building,faculty.officer,2026-07-13 01:17:00,2026-07-13 04:37:00,2026-07-16 19:37:00
+SR-2026-0057,animal-biology,RES-002,maintenance,medium,in_progress,Cracked window pane on the first floor corridor,student.portal,2026-06-19 10:57:00,2026-06-19 13:02:00,
+SR-2026-0058,modern-langs,RES-007,medical,high,assigned,Student reported feeling faint during lectures,student.portal,2026-06-29 03:54:00,2026-06-29 05:49:00,
+SR-2026-0059,fam-and-consumer,RES-001,maintenance,medium,resolved,Broken ceiling fan reported in the main hall,facilities.hotline,2026-06-20 11:35:00,2026-06-20 13:44:00,2026-06-23 16:44:00
+SR-2026-0060,archaeology,RES-003,security,high,resolved,Faulty security light at the rear car park,security.desk,2026-06-26 03:33:00,2026-06-26 03:58:00,2026-06-26 15:58:00
