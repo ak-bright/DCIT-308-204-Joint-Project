@@ -1,0 +1,16 @@
+resource_code,name,resource_type,base_location_code,capacity,status,cost_per_hour,contact_phone,is_active
+RES-001,Maintenance Crew 1,maintenance_crew,inter-prog-office,4,available,45.0,+233 30 250 3760,1
+RES-002,Maintenance Crew 2,maintenance_crew,research-office,4,available,45.0,+233 30 250 3075,1
+RES-003,Security Patrol 1,security_patrol,inter-prog-office,2,available,30.0,+233 30 250 1496,1
+RES-004,Security Patrol 2,security_patrol,inter-prog-office,2,maintenance,30.0,+233 30 250 7586,1
+RES-005,Ambulance Unit 1,ambulance,hospital,3,available,120.0,+233 30 250 3663,1
+RES-006,Ambulance Unit 2,ambulance,hospital,3,available,120.0,+233 30 250 4078,1
+RES-007,Ambulance Unit 3,ambulance,hospital,3,deployed,120.0,+233 30 250 8144,1
+RES-008,Campus Shuttle 1,shuttle_bus,great-hall,28,available,85.0,+233 30 250 8610,1
+RES-009,Campus Shuttle 2,shuttle_bus,great-hall,28,available,85.0,+233 30 250 9747,1
+RES-010,Sanitation Team 1,sanitation_team,jean-nelson-hall,5,available,25.0,+233 30 250 7093,1
+RES-011,ICT Support Desk 1,it_support,ghkorea-info,2,available,40.0,+233 30 250 1852,1
+RES-012,ICT Support Desk 2,it_support,ghkorea-info,2,deployed,40.0,+233 30 250 8226,1
+RES-013,ICT Support Desk 3,it_support,ghkorea-info,2,deployed,40.0,+233 30 250 6166,1
+RES-014,Mobile Generator 1,equipment,ghkorea-info,0,available,15.0,+233 30 250 8231,1
+RES-015,Mobile Generator 2,equipment,inter-prog-office,0,available,15.0,+233 30 250 8744,1

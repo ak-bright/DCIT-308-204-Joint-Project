@@ -1,0 +1,81 @@
+entity_table,entity_code,action,actor,actor_role,occurred_at,old_values,new_values,notes
+service_requests,SR-2026-0048,ASSIGN,dispatch.officer,dispatcher,2026-06-24 17:02:00,,"{""assigned_resource"": ""RES-015""}",Nearest available unit allocated
+service_requests,SR-2026-0058,UPDATE,facilities.admin,admin,2026-06-25 05:33:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+service_requests,SR-2026-0040,INSERT,dispatch.officer,dispatcher,2026-06-26 06:23:00,,"{""created_via"": ""bulk_import""}",
+locations,nursing-and-midwifery,INSERT,gis.surveyor,staff,2026-06-27 09:24:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0059,INSERT,gis.surveyor,staff,2026-06-27 13:41:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0011,ASSIGN,hall.porter,staff,2026-06-27 14:03:00,,"{""assigned_resource"": ""RES-006""}",Nearest available unit allocated
+service_requests,SR-2026-0042,ASSIGN,student.portal,student,2026-06-27 17:30:00,,"{""assigned_resource"": ""RES-013""}",Nearest available unit allocated
+locations,inter-prog-office,UPDATE,dispatch.officer,dispatcher,2026-06-29 11:01:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-008,INSERT,facilities.admin,admin,2026-06-30 23:36:00,,"{""created_via"": ""bulk_import""}",
+locations,religions,UPDATE,dispatch.officer,dispatcher,2026-07-01 06:27:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+algorithm_runs,RUN-0014,INSERT,dispatch.officer,dispatcher,2026-07-01 13:49:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0054,STATUS_CHANGE,hall.porter,staff,2026-07-01 22:40:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0009,INSERT,hall.porter,staff,2026-07-02 08:31:00,,"{""created_via"": ""bulk_import""}",
+algorithm_runs,RUN-0017,UPDATE,facilities.admin,admin,2026-07-02 13:55:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+roads,RD-0036,INSERT,dispatch.officer,dispatcher,2026-07-03 09:08:00,,"{""created_via"": ""bulk_import""}",
+resources,RES-004,UPDATE,facilities.admin,admin,2026-07-03 19:24:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+algorithm_runs,RUN-0010,INSERT,student.portal,student,2026-07-04 03:00:00,,"{""created_via"": ""bulk_import""}",
+locations,mensah-sarbah-annex,UPDATE,dispatch.officer,dispatcher,2026-07-04 07:19:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+locations,philosophy-&-classics,INSERT,gis.surveyor,staff,2026-07-05 14:00:00,,"{""created_via"": ""bulk_import""}",
+roads,RD-0165,STATUS_CHANGE,import.job,system,2026-07-05 20:29:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-003,INSERT,student.portal,student,2026-07-06 12:50:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0047,UPDATE,import.job,system,2026-07-06 23:50:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-002,UPDATE,import.job,system,2026-07-07 02:39:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+roads,RD-0093,INSERT,dispatch.officer,dispatcher,2026-07-07 15:32:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0002,STATUS_CHANGE,student.portal,student,2026-07-07 22:26:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0018,STATUS_CHANGE,hall.porter,staff,2026-07-09 02:17:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0018,INSERT,import.job,system,2026-07-09 06:49:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0005,STATUS_CHANGE,hall.porter,staff,2026-07-09 17:54:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0013,ASSIGN,import.job,system,2026-07-09 23:03:00,,"{""assigned_resource"": ""RES-007""}",Nearest available unit allocated
+service_requests,SR-2026-0025,STATUS_CHANGE,facilities.admin,admin,2026-07-11 09:30:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-004,UPDATE,gis.surveyor,staff,2026-07-11 12:10:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+service_requests,SR-2026-0032,ASSIGN,facilities.admin,admin,2026-07-12 07:36:00,,"{""assigned_resource"": ""RES-009""}",Nearest available unit allocated
+service_requests,SR-2026-0006,STATUS_CHANGE,gis.surveyor,staff,2026-07-12 15:00:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+algorithm_runs,RUN-0002,STATUS_CHANGE,gis.surveyor,staff,2026-07-12 23:32:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+roads,RD-0162,UPDATE,dispatch.officer,dispatcher,2026-07-13 16:20:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+service_requests,SR-2026-0015,UPDATE,hall.porter,staff,2026-07-13 17:22:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-003,INSERT,dispatch.officer,dispatcher,2026-07-14 06:19:00,,"{""created_via"": ""bulk_import""}",
+resources,RES-012,UPDATE,dispatch.officer,dispatcher,2026-07-15 07:04:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-006,STATUS_CHANGE,import.job,system,2026-07-15 09:51:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0054,STATUS_CHANGE,student.portal,student,2026-07-15 13:05:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+algorithm_runs,RUN-0021,INSERT,student.portal,student,2026-07-15 13:32:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0001,INSERT,facilities.admin,admin,2026-07-17 04:25:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0029,STATUS_CHANGE,gis.surveyor,staff,2026-07-17 21:16:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-013,UPDATE,dispatch.officer,dispatcher,2026-07-19 05:24:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-009,INSERT,import.job,system,2026-07-19 06:21:00,,"{""created_via"": ""bulk_import""}",
+resources,RES-011,UPDATE,facilities.admin,admin,2026-07-19 20:10:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+locations,volta-hall,UPDATE,student.portal,student,2026-07-19 22:17:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+algorithm_runs,RUN-0031,UPDATE,gis.surveyor,staff,2026-07-21 00:07:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+service_requests,SR-2026-0052,ASSIGN,hall.porter,staff,2026-07-21 09:58:00,,"{""assigned_resource"": ""RES-001""}",Nearest available unit allocated
+service_requests,SR-2026-0037,INSERT,gis.surveyor,staff,2026-07-21 14:08:00,,"{""created_via"": ""bulk_import""}",
+locations,home-science,DELETE,gis.surveyor,staff,2026-07-21 15:51:00,"{""is_active"": 1}",,Superseded record removed
+service_requests,SR-2026-0024,STATUS_CHANGE,dispatch.officer,dispatcher,2026-07-21 22:45:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+algorithm_runs,RUN-0006,STATUS_CHANGE,facilities.admin,admin,2026-07-22 08:08:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-002,DELETE,hall.porter,staff,2026-07-22 10:17:00,"{""is_active"": 1}",,Superseded record removed
+resources,RES-006,INSERT,facilities.admin,admin,2026-07-23 00:07:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0056,STATUS_CHANGE,dispatch.officer,dispatcher,2026-07-23 02:11:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0034,UPDATE,gis.surveyor,staff,2026-07-23 17:27:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+roads,RD-0153,STATUS_CHANGE,hall.porter,staff,2026-07-24 17:10:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0040,ASSIGN,hall.porter,staff,2026-07-24 21:43:00,,"{""assigned_resource"": ""RES-008""}",Nearest available unit allocated
+roads,RD-0055,UPDATE,import.job,system,2026-07-26 07:47:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-009,INSERT,gis.surveyor,staff,2026-07-27 08:18:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0054,STATUS_CHANGE,gis.surveyor,staff,2026-07-27 09:04:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-005,STATUS_CHANGE,gis.surveyor,staff,2026-07-27 14:19:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+algorithm_runs,RUN-0001,DELETE,student.portal,student,2026-07-28 19:58:00,"{""is_active"": 1}",,Superseded record removed
+locations,volta-hall,INSERT,hall.porter,staff,2026-07-29 06:14:00,,"{""created_via"": ""bulk_import""}",
+resources,RES-001,UPDATE,facilities.admin,admin,2026-07-29 08:10:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+service_requests,SR-2026-0047,STATUS_CHANGE,dispatch.officer,dispatcher,2026-07-29 18:32:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0049,INSERT,import.job,system,2026-07-29 22:58:00,,"{""created_via"": ""bulk_import""}",
+service_requests,SR-2026-0001,STATUS_CHANGE,gis.surveyor,staff,2026-07-30 20:47:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-004,STATUS_CHANGE,facilities.admin,admin,2026-07-30 21:45:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-001,UPDATE,import.job,system,2026-07-31 02:00:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+locations,vikings-hostel,UPDATE,import.job,system,2026-07-31 13:27:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+resources,RES-004,INSERT,hall.porter,staff,2026-07-31 16:43:00,,"{""created_via"": ""bulk_import""}",
+roads,RD-0203,STATUS_CHANGE,student.portal,student,2026-08-01 06:34:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0001,STATUS_CHANGE,facilities.admin,admin,2026-08-03 04:53:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+service_requests,SR-2026-0047,ASSIGN,gis.surveyor,staff,2026-08-03 10:31:00,,"{""assigned_resource"": ""RES-015""}",Nearest available unit allocated
+resources,RES-011,UPDATE,import.job,system,2026-08-03 16:05:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+service_requests,SR-2026-0014,STATUS_CHANGE,hall.porter,staff,2026-08-03 16:44:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
+resources,RES-015,UPDATE,student.portal,student,2026-08-03 21:23:00,"{""condition_rating"": 3}","{""condition_rating"": 4}",Routine condition re-survey
+roads,RD-0040,STATUS_CHANGE,hall.porter,staff,2026-08-04 04:47:00,"{""status"": ""open""}","{""status"": ""assigned""}",Dispatcher triage
