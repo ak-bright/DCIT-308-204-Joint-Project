@@ -2,11 +2,7 @@
 DCIT 204/308 — Joint DSA Semester Project
 Local context: a Ghanaian hospital / clinic network (departments, wards, patient service requests, staff & equipment) · Duration: 10 days (Mon 3 Aug – Wed 12 Aug 2026)
 
-## How this repo is organised
-Bright (Group Leader) is doing ALL technical work personally using Claude Code — see
-`CLAUDE_CODE_PROMPT.md` in this folder for the exact prompt used to generate the system.
-Every other folder here belongs to a non-technical team whose job is to supply real
-information, check quality, or commit polished documents — no one else needs to write code.
+
 
 ## Folder map
 - `src/` — the Java system (Bright only, generated via Claude Code)
