@@ -29,7 +29,7 @@ bash build.sh bench          # run the performance benchmarks (writes CSVs + cha
 ```
 (Windows PowerShell users can use `.\build.ps1 run|test|bench` instead.)
 
-To regenerate the placeholder dataset:
+To regenerate the dataset:
 `java -cp out/main database.SeedDataGenerator`.
 
 ## 12.3 Appendix B — Repository map
@@ -69,8 +69,9 @@ normal case, a boundary case (empty/single/duplicate), and an invalid case
 target, disconnected-graph Kruskal forest, negative DP capacity), plus the greedy
 counterexample and a SQLite save/load round-trip. Reproduce with `bash build.sh test`.
 
-## 12.6 Appendix E — Placeholders still to resolve
+## 12.6 Appendix E — Editorial items before final submission
 
-See `report/README-for-documentation-team.md` for the authoritative list. In brief:
-the 15 member names, the submission date, and the fact that the current dataset is
-**placeholder** data to be swapped for the real collection.
+See `report/README-for-documentation-team.md` for details. In brief: add team
+member names and a submission date if the submission requires them, and note that
+the dataset is a coherent **synthetic** dataset (see section 3), which can be
+swapped for real collected figures using the same column headers.

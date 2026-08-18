@@ -13,8 +13,8 @@ which set keeps every department reachable at least cost?
 
 The **Hospital & Clinic Operations Optimizer** is a Java console application that
 answers exactly these questions using classic data structures and algorithms —
-all implemented from scratch — over the network's real (or, until the data lands,
-realistic placeholder) data.
+all implemented from scratch — over the network's dataset (a coherent synthetic
+dataset, or real figures if they are supplied).
 
 ## 2.2 Assumptions
 

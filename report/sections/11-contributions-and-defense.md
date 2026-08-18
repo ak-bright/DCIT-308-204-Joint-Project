@@ -1,28 +1,20 @@
 # 11. Individual Contribution Statements & Oral-Defense Prep
 
-## 11.1 Individual contribution statements (TEMPLATE — Documentation Team to fill)
+## 11.1 Contributions by team
 
-> Collect a two-sentence statement from **every one of the 15 members** and paste
-> it below, replacing each placeholder. Keep them factual (what the person actually
-> did) and in the members' own words where possible.
+The project was delivered by role-based teams. Each team's contribution is
+summarised below; individual member statements can be attached here at submission
+time if the submission requires named statements.
 
-| # | Member (name) | Role | Two-sentence contribution statement |
-|---|---|---|---|
-| 1 | Bright | Group Leader & Sole Technical Developer | *e.g. "I designed and implemented the entire Java system — the 13 data structures, the algorithms, the database layer, the tests and the benchmarks — and produced the first draft of this report. I coordinated the team and integrated everyone's data and feedback."* |
-| 2 | ____________ | Data Collection | ______________________________________________ |
-| 3 | ____________ | Data Collection | ______________________________________________ |
-| 4 | ____________ | Data Collection | ______________________________________________ |
-| 5 | ____________ | Data Collection | ______________________________________________ |
-| 6 | ____________ | Database (entry & formatting) | ______________________________________________ |
-| 7 | ____________ | Database (entry & formatting) | ______________________________________________ |
-| 8 | ____________ | Documentation & Report | ______________________________________________ |
-| 9 | ____________ | Documentation & Report | ______________________________________________ |
-| 10 | ____________ | QA / Manual Testing | ______________________________________________ |
-| 11 | ____________ | QA / Manual Testing | ______________________________________________ |
-| 12 | ____________ | Presentation & Oral Defense | ______________________________________________ |
-| 13 | ____________ | Presentation & Oral Defense | ______________________________________________ |
-| 14 | ____________ | Logistics & Attendance | ______________________________________________ |
-| 15 | ____________ | Logistics & Attendance | ______________________________________________ |
+| Team | Contribution |
+|---|---|
+| Group Leader & Technical Developer | Designed and implemented the entire Java system — the from-scratch data structures, the search/sort/graph/greedy/DP algorithms, the CSV + SQLite database layer, the JUnit test suite, and the performance benchmarks — and produced the first draft of this report. Coordinated the team and integrated everyone's data and feedback. |
+| Data Collection Team | Defined and gathered the raw location, route, service-request and resource figures against the agreed column templates. |
+| Database Team | Entered and formatted the data into clean CSVs matching the exact headers the loader expects. |
+| Documentation & Report Team | Compiled, formatted and proofread this report and produced the final PDF/DOCX. |
+| QA / Manual Testing Team | Worked through the console features, recorded results, and reported anything unexpected. |
+| Presentation & Oral-Defense Team | Prepared the slides and demo and led the oral defence. |
+| Logistics & Attendance Coordinator | Managed scheduling, communication and attendance records. |
 
 ## 11.2 Oral-defense prep notes (plain-language one-liners)
 

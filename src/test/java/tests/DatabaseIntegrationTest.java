@@ -22,7 +22,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * Integration tests for the CSV loader, the in-memory {@link Repository}, and the
  * SQLite {@link DatabaseManager}. These prove the "load data from and save data
  * to the database" behaviour actually round-trips, and that the loader tolerates
- * the placeholder banner / header lines.
+ * leading comment and header lines.
  *
  * <p>They assume the working directory is the repo root (as the build scripts
  * run tests), so {@code database/seed-data} and {@code database/schema.sql} are
@@ -33,10 +33,10 @@ class DatabaseIntegrationTest {
 
     private static final String SCHEMA = "database/schema.sql";
 
-    @Test @DisplayName("DataLoader: parses a hand-written CSV, skipping banner+header (normal)")
+    @Test @DisplayName("DataLoader: parses a hand-written CSV, skipping comment+header (normal)")
     void loaderParsesCsv(@TempDir Path dir) throws Exception {
         Files.writeString(dir.resolve("locations.csv"),
-                "# PLACEHOLDER banner line to be ignored\n" +
+                "# comment line to be ignored\n" +
                 "locationId,name,area,type,notes\n" +
                 "L001,Emergency Department,Main Block,department,x\n" +
                 "L002,\"Ward, B3\",Maternity Block,ward,y\n"); // quoted comma field

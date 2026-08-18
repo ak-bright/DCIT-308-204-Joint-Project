@@ -1,16 +1,14 @@
 # report/
 
-Bright generates the first full draft (all 12 sections) via Claude Code on Day 8,
-using the real hospital/clinic data, the code, and the performance results.
-
-Owner from Day 8: Documentation & Report Team (2 people) — read it end to end,
-correct anything that doesn't match the real data the team collected, format it
-properly in Word (headings, page numbers, cover page, table of contents, captions),
-collect a two-sentence individual contribution statement from every one of the 15
-members, proofread, and produce the final PDF + DOCX.
+The project write-up. The full draft lives in `final-report-draft.md`, and the
+same content is split for editing under `sections/` (one file per section). The
+Documentation & Report Team reads it end to end, checks it against the code and
+data, formats it in Word (headings, page numbers, cover page, table of contents,
+captions), collects each member's contribution statement, proofreads, and produces
+the final PDF + DOCX.
 
 Required 12-section structure (from the brief):
-1. Cover page (title, all 15 names, local context)
+1. Cover page (title, team, local context)
 2. Problem statement, assumptions, input-output definitions, system boundaries
 3. Dataset description, data dictionary, database schema
 4. System architecture and module design
@@ -22,7 +20,3 @@ Required 12-section structure (from the brief):
 10. Responsible algorithm selection (when appropriate / not)
 11. Individual contribution statements + oral-defense prep notes
 12. References and appendices
-
-DUE: draft from Bright Day 8; polished final (Documentation & Report Team) Day 10.
-
-STATUS: empty

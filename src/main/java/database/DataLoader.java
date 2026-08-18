@@ -16,7 +16,7 @@ import java.nio.file.Path;
  * Reads and writes the seed-data CSV files in {@code database/seed-data/}.
  *
  * <p>The loader is deliberately tolerant: it skips blank lines and comment lines
- * that begin with {@code #} (so the "# PLACEHOLDER" banner and any hand notes are
+ * that begin with {@code #} (so any hand-written notes at the top of a file are
  * ignored), and it skips the header row. Fields are split with a small CSV
  * parser that understands double-quoted values containing commas.</p>
  *

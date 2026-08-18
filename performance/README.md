@@ -1,9 +1,13 @@
-# performance/ — Owner: Bright, via Claude Code
+# performance/
 
-Raw experiment CSVs, graphs, and the theory-vs-observed interpretation. No team
-deliverable here — Bright generates this once the system is integration-frozen
-(Day 7) and running on real data.
+Empirical performance evidence for the data structures and algorithms.
 
-DUE: Day 8.
+- `experiment-results/` — raw timing CSVs, one per family (searching, sorting,
+  trees, heap, hashtable, graph), produced by `performance.BenchmarkRunner`.
+- `graphs/`             — SVG charts drawn from those CSVs by `performance.SvgChart`.
+- `interpretation.md`   — a short write-up comparing the theoretical Big-O of each
+  structure/algorithm against the measured timings.
+- `plot.py`             — an optional matplotlib script for anyone who prefers PNGs;
+  it is not required (the SVG charts are generated straight from Java).
 
-STATUS: empty
+Regenerate everything with `bash build.sh bench` (or `.\build.ps1 bench`).

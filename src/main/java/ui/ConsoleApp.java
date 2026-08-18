@@ -91,7 +91,7 @@ public final class ConsoleApp {
                 if (db != null) { db.saveAll(repo); System.out.println("[data] Mirrored seed data into the database."); }
             } else {
                 System.out.println("[data] No seed data found. Add records via the menu, or run "
-                        + "database.SeedDataGenerator to create placeholder data.");
+                        + "database.SeedDataGenerator to generate the dataset.");
             }
         }
         printSummary();

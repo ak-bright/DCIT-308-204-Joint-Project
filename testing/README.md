@@ -1,12 +1,10 @@
-# testing/ — Owner: QA / Manual Testing Team (2 people)
+# testing/ — QA / manual testing
 
-Bright will drop a plain-language checklist here once the first build is ready
-(around Day 6) — one line per console-menu feature to try. Work through it, note
-whether each item worked, and describe anything unexpected in plain English
-(no code knowledge needed). Screenshots help.
+Plain-language manual test evidence for the console application — one entry per
+menu feature, recording whether it worked and anything unexpected (no code
+knowledge needed to read it).
 
-Drop your results as: manual-qa-log.md
+- `manual-qa-log.md` — the completed manual QA checklist and results.
 
-DUE: Day 6-8 (test as builds arrive; re-test anything Bright marks fixed).
-
-STATUS: empty
+This complements the automated JUnit 5 suite under `src/test/java/`; run that with
+`bash build.sh test` (or `.\build.ps1 test`).

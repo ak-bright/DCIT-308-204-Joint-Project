@@ -11,10 +11,10 @@ _shapes_ of the curves are what matter** and those match the theory. A JIT
 warm-up pass runs before timing so the first measurement of each experiment is
 not an outlier.
 
-> These numbers were produced against the **placeholder** benchmark inputs (random
-> data at the stated sizes), which is exactly what a benchmark should use. They do
-> not depend on the hospital seed data, so they do **not** need to be regenerated
-> when the real seed data lands — though re-running `bench` never hurts.
+> These numbers were produced against **synthetic benchmark inputs** (randomly
+> generated data at the stated sizes), which is exactly what a benchmark should
+> use. They are independent of the hospital seed dataset, so changing the seed
+> data does not affect them — though re-running `bench` never hurts.
 
 ---
 

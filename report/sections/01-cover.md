@@ -20,29 +20,16 @@ corridors that keeps the whole site connected? who should be assigned to what?*
 
 ---
 
-**Group project — 15 members.** (Names to be filled in by the Documentation Team.)
+**Group project — organised into role-based teams.**
 
-| Role | Member name |
+| Role / Team | Responsibility |
 |---|---|
-| Group Leader & Sole Technical Developer | Bright |
-| Data Collection Team (member 2) | ________________________ |
-| Data Collection Team (member 3) | ________________________ |
-| Data Collection Team (member 4) | ________________________ |
-| Data Collection Team (member 5) | ________________________ |
-| Database Team — data entry & formatting (member 6) | ________________________ |
-| Database Team — data entry & formatting (member 7) | ________________________ |
-| Documentation & Report Team (member 8) | ________________________ |
-| Documentation & Report Team (member 9) | ________________________ |
-| QA / Manual Testing Team (member 10) | ________________________ |
-| QA / Manual Testing Team (member 11) | ________________________ |
-| Presentation & Oral-Defense Team (member 12) | ________________________ |
-| Presentation & Oral-Defense Team (member 13) | ________________________ |
-| Logistics & Attendance Coordinator (member 14) | ________________________ |
-| Logistics & Attendance Coordinator (member 15) | ________________________ |
+| Group Leader & Technical Developer | System design and the full Java implementation |
+| Data Collection Team | Gathering the raw location, route, request and resource figures |
+| Database Team | Data entry and CSV formatting to the agreed column headers |
+| Documentation & Report Team | Compiling, formatting and proofreading this report |
+| QA / Manual Testing Team | Working through the console features and logging results |
+| Presentation & Oral-Defense Team | Slides, demo and defending the work |
+| Logistics & Attendance Coordinator | Scheduling, communication and attendance records |
 
-**Submission date:** ____________________  **Academic year:** 2025/2026
-
-> **Note for the Documentation Team:** every blank above is a placeholder. Fill in
-> the 15 real names (Bright is already confirmed as Group Leader) and the two
-> dates. See `report/README-for-documentation-team.md` for the full list of
-> placeholders across the whole report.
+**Academic year:** 2025/2026

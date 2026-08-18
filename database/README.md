@@ -1,10 +1,11 @@
 # database/
 
-seed-data/    Owner: Database Team (2 people) — cleaned, formatted CSVs copied from
-              /data/, matching the exact column headers Bright specifies. No schema
-              design needed — that part is Bright's, via Claude Code.
-schema.sql    Owner: Bright, generated via Claude Code once seed-data/ is ready.
+- `schema.sql`   — the SQLite schema (tables for locations, routes, service
+  requests, resources, plus the `algorithm_runs` and `audit_events` log tables).
+- `seed-data/`   — the four CSV files the application loads on first start
+  (`locations.csv`, `routes.csv`, `service-requests.csv`, `resources.csv`).
+- `hospital.db`  — the SQLite database file. It is created at runtime from the
+  schema and seed CSVs, so it is intentionally excluded from git (`.gitignore`).
 
-DUE (Database Team): Day 4, depends on /data/ raw files landing Day 3.
-
-STATUS: empty
+The seed CSVs are produced by `database.SeedDataGenerator` (a coherent, synthetic
+hospital dataset) and can be regenerated at any time — see the root `README.md`.

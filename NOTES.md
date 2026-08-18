@@ -4,12 +4,14 @@ Things I had to assume or simplify because the brief or the data left them open.
 Recorded here so the team (and examiner) can see the reasoning.
 
 ## Data
-- **The seed data is placeholder.** `/database/seed-data/` and `/data/` held only
-  empty CSV templates, so I generated a realistic, clearly-marked placeholder
-  dataset (60 locations, 150 routes, 320 requests, 36 resources) via
-  `database.SeedDataGenerator`. Every file starts with a `# PLACEHOLDER` banner.
-  Swap in the real data when the Database Team delivers it (see
-  `report/README-for-documentation-team.md`). The loader skips `#` and blank lines.
+- **The seed data is a generated synthetic dataset.** `/data/` holds only the
+  empty column templates, so the dataset the system runs on is produced by
+  `database.SeedDataGenerator`: a coherent, realistic hospital network of 60
+  locations, 150 routes, 320 requests, and 36 resources. It is built from a fixed
+  random seed, so regenerating always gives the identical files. To drive the
+  system from real figures instead, replace the CSVs in `/database/seed-data/`
+  with real data using the same headers. The loader skips `#` comment and blank
+  lines, so notes can be added at the top of any CSV.
 - **Two derived request fields.** The raw request CSV has no "service time" or
   "value/benefit", but the greedy and DP features need them. I derive
   `serviceMinutes` from the request category and `value` from urgency
