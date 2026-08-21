@@ -1,1 +1,11 @@
 locationId,name,area,type,notes
+LOC001,Emergency Department,Medical Wing,Emergency,24/7 critical care and triage unit
+LOC002,Cardio ICU,Cardiology Institute,Intensive Care,Specialized intensive care for cardiovascular patients
+LOC003,Medical Imaging,Diagnostic Center,Radiology,Houses CT scan MRI X-Ray and Cath Lab
+LOC004,Women and Children Block,Pediatrics & O&G,Inpatient,Obstetrics gynaecology and pediatric wards
+LOC005,Medical Training and Simulation Centre,MTSC Complex,Training,World-class medical simulation and education facility
+LOC006,Main Pharmacy,Central Building,Pharmacy,Dispensing unit for outpatients and inpatient medication
+LOC007,Central Diagnostic Laboratory,Diagnostic Center,Pathology,Full-service automated lab for specimen testing
+LOC008,Endoscopy Unit,Medical Wing,Diagnostic,Specialized unit located on the ground floor
+LOC009,Physiotherapy Clinic,Rehabilitation Wing,Therapy,Physical therapy and rehabilitation center
+LOC010,Main Outpatient Department,OPD Block,Clinic,Primary reception and general consultation clinics
