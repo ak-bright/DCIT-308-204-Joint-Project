@@ -1,61 +1,61 @@
-locationId,name,area,type,notes
-L001,Emergency Department,Emergency Block,department,24-hour walk-in and ambulance intake
-L002,Outpatient Department,OPD Block,department,General outpatient consulting rooms
-L003,Radiology,Diagnostics Block,department,X-ray and imaging reception
-L004,Pharmacy,Main Block,department,Main drug dispensary
-L005,Laboratory,Diagnostics Block,department,Clinical and pathology laboratory
-L006,Theatre,Surgical Block,unit,Main operating theatres
-L007,Maternity,Maternity Block,department,Delivery suite and postnatal ward
-L008,Antenatal Clinic,Maternity Block,department,Antenatal consulting rooms
-L009,Paediatrics,Main Block,department,Children's ward and clinic
-L010,Physiotherapy,OPD Block,department,Rehabilitation gym
-L011,Dental Clinic,OPD Block,department,Dental surgery
-L012,Eye Clinic,OPD Block,department,Ophthalmology consulting
-L013,ENT Clinic,OPD Block,department,"Ear, nose and throat clinic"
-L014,Dialysis Unit,Main Block,unit,Renal dialysis stations
-L015,Blood Bank,Diagnostics Block,unit,Blood storage and cross-matching
-L016,Mortuary,Support Services,unit,Body storage and release
-L017,Records Office,Administration Block,department,Patient folders and registry
-L018,Admissions,Administration Block,department,Inpatient admissions desk
-L019,Cashier / Billing,Administration Block,department,Payments and NHIS claims
-L020,Intensive Care Unit,Surgical Block,unit,Critical-care monitored beds
-L021,Coronary Care Unit,Surgical Block,unit,Cardiac monitoring beds
-L022,Burns Unit,Surgical Block,unit,Burns and plastics ward
-L023,Oncology,Main Block,department,Cancer treatment clinic
-L024,Chemotherapy Suite,Main Block,unit,Day chemotherapy chairs
-L025,Endoscopy,Diagnostics Block,unit,Endoscopy suite
-L026,Ultrasound,Diagnostics Block,unit,Ultrasound scanning rooms
-L027,CT Scan Suite,Diagnostics Block,unit,Computed-tomography suite
-L028,MRI Suite,Diagnostics Block,unit,Magnetic-resonance imaging suite
-L029,Central Sterile Supply,Support Services,unit,Instrument sterilisation
-L030,Kitchen / Catering,Support Services,department,Patient and staff meals
-L031,Laundry,Support Services,department,Linen washing and distribution
-L032,Chapel,Support Services,department,Multi-faith prayer room
-L033,Staff Canteen,Support Services,department,Staff dining
-L034,Pharmacy Store,Support Services,unit,Bulk drug storage
-L035,Oxygen Plant,Support Services,unit,Medical oxygen generation
-L036,Generator House,Support Services,unit,Backup power supply
-L037,Male Medical Ward 1,Maternity Block,ward,35-bed inpatient ward
-L038,Female Medical Ward 1,Surgical Block,ward,19-bed inpatient ward
-L039,Paediatric Ward 1,Main Block,ward,27-bed inpatient ward
-L040,Surgical Ward 1,Main Block,ward,28-bed inpatient ward
-L041,Maternity Ward 1,Emergency Block,ward,30-bed inpatient ward
-L042,Recovery Bay 1,Main Block,ward,15-bed inpatient ward
-L043,Isolation Room 1,Emergency Block,ward,12-bed inpatient ward
-L044,Amenity Ward 1,Maternity Block,ward,31-bed inpatient ward
-L045,Male Medical Ward 2,Surgical Block,ward,21-bed inpatient ward
-L046,Female Medical Ward 2,Maternity Block,ward,27-bed inpatient ward
-L047,Paediatric Ward 2,Maternity Block,ward,31-bed inpatient ward
-L048,Surgical Ward 2,Emergency Block,ward,14-bed inpatient ward
-L049,Maternity Ward 2,Surgical Block,ward,27-bed inpatient ward
-L050,Recovery Bay 2,Maternity Block,ward,21-bed inpatient ward
-L051,Isolation Room 2,Surgical Block,ward,14-bed inpatient ward
-L052,Amenity Ward 2,Surgical Block,ward,33-bed inpatient ward
-L053,Male Medical Ward 3,Main Block,ward,14-bed inpatient ward
-L054,Female Medical Ward 3,Maternity Block,ward,12-bed inpatient ward
-L055,Paediatric Ward 3,Main Block,ward,26-bed inpatient ward
-L056,Surgical Ward 3,Maternity Block,ward,32-bed inpatient ward
-L057,Maternity Ward 3,Emergency Block,ward,12-bed inpatient ward
-L058,Recovery Bay 3,Emergency Block,ward,27-bed inpatient ward
-L059,Isolation Room 3,Maternity Block,ward,27-bed inpatient ward
-L060,Amenity Ward 3,Surgical Block,ward,15-bed inpatient ward
+locationId,name,area,type,latitude,longitude,notes
+L001,Out-Patient Department (OPD),OPD Block,department,5.650734,-0.184748,General adult out-patient consulting
+L002,Accident & Emergency Department,Emergency Block,department,5.651288,-0.185162,24-hour walk-in and ambulance intake
+L003,Paediatrics Department,Paediatric Block,department,5.649708,-0.185184,Children's out-patient clinic
+L004,Obstetrics and Gynaecology Department,Maternity Block,department,5.650255,-0.185158,O&G consulting and delivery services
+L005,Internal Medicine Department,Main Block,department,5.651139,-0.184699,Adult medicine consulting and wards
+L006,Public Health Department,Administration Block,department,5.650894,-0.186308,Community and preventive health unit
+L007,General Surgery Department,Surgical Block,department,5.649775,-0.185208,Surgical consulting and pre-op assessment
+L008,Mental Health Department,Mental Health Unit,department,5.650401,-0.185858,Psychiatric consulting rooms
+L009,Dentistry & Oral Health Department,Dental & Eye Block,department,5.651126,-0.185403,Dental surgery and oral health
+L010,Optometry / Eye Clinic,Dental & Eye Block,department,5.651191,-0.184612,Ophthalmology and optometry consulting
+L011,Pharmacy Department,Pharmacy Block,department,5.650076,-0.185999,Main drug dispensary
+L012,Nursing Administration Unit,Administration Block,unit,5.650505,-0.184987,Nurse scheduling and ward coordination
+L013,Laboratory Department,Diagnostics Block,department,5.650518,-0.185803,Clinical and pathology laboratory
+L014,X-ray / Radiology Department,Diagnostics Block,department,5.650052,-0.184891,X-ray and imaging services
+L015,Diet Therapy Unit,Support Services Block,unit,5.649908,-0.186005,Dietetics and nutrition counselling
+L016,Physiotherapy Department,OPD Block,department,5.651396,-0.185434,Rehabilitation gym and therapy rooms
+L017,Accounts Department,Administration Block,office,5.649752,-0.184722,Billing and finance office
+L018,General Administration Office,Administration Block,office,5.649833,-0.186316,Hospital administration
+L019,Medical Records Department,Administration Block,department,5.651018,-0.186136,Patient file storage and retrieval
+L020,Catering / Kitchen Unit,Support Services Block,unit,5.649682,-0.18504,Patient meal preparation
+L021,Housekeeping Department,Support Services Block,unit,5.650034,-0.18474,Cleaning and environmental services
+L022,Sickle Cell Clinic,OPD Block,unit,5.650655,-0.185781,Sickle cell disease management
+L023,ENT Clinic,OPD Block,department,5.650312,-0.186351,"Ear, nose and throat clinic"
+L024,Urology Clinic,OPD Block,unit,5.650326,-0.185777,Urology consulting
+L025,Dermatology Clinic,OPD Block,unit,5.650017,-0.186334,Skin clinic
+L026,Ambulance Bay,Emergency Block,service-point,5.650939,-0.185436,Ambulance dispatch and parking
+L027,ECG Unit,Diagnostics Block,unit,5.650046,-0.184929,Cardiac diagnostics
+L028,Mortuary,Support Services Block,service-point,5.651295,-0.184789,Mortuary services
+L029,Male Medical Ward,Main Block,ward,5.649614,-0.185275,Adult male in-patient ward
+L030,Female Medical Ward,Main Block,ward,5.650065,-0.185939,Adult female in-patient ward
+L031,Male Surgical Ward,Surgical Block,ward,5.649928,-0.186234,Post-surgical male ward
+L032,Female Surgical Ward,Surgical Block,ward,5.650253,-0.186138,Post-surgical female ward
+L033,Labour Ward,Maternity Block,ward,5.650279,-0.185122,Delivery suite
+L034,Antenatal Clinic,Maternity Block,department,5.649655,-0.184724,Antenatal consulting rooms
+L035,Postnatal Ward,Maternity Block,ward,5.650176,-0.185079,Postnatal recovery ward
+L036,Neonatal Care Unit,Maternity Block,unit,5.651346,-0.18593,Newborn special care
+L037,Children's Ward,Paediatric Block,ward,5.650956,-0.184661,Paediatric in-patient ward
+L038,Paediatric Clinic,Paediatric Block,department,5.650413,-0.184732,Children's out-patient consulting
+L039,Operating Theatre 1,Surgical Block,unit,5.650308,-0.186148,Main operating theatre
+L040,Operating Theatre 2,Surgical Block,unit,5.650758,-0.186031,Secondary operating theatre
+L041,Recovery Room,Surgical Block,unit,5.650789,-0.186354,Post-anaesthesia recovery
+L042,Intensive Care Unit (ICU),Main Block,unit,5.649781,-0.184868,Critical care beds
+L043,High Dependency Unit (HDU),Main Block,unit,5.651114,-0.185881,Step-down critical care
+L044,OPD Consulting Room A,OPD Block,service-point,5.650677,-0.186261,General consulting room
+L045,OPD Consulting Room B,OPD Block,service-point,5.650832,-0.185348,General consulting room
+L046,OPD Consulting Room C,OPD Block,service-point,5.649621,-0.185745,General consulting room
+L047,Injection Room,OPD Block,service-point,5.650299,-0.185376,Nurse-administered injections
+L048,Dressing Room,OPD Block,service-point,5.650114,-0.186196,Wound dressing
+L049,Immunisation Point,Paediatric Block,service-point,5.649822,-0.184779,Child vaccination point
+L050,Records / Registration Point,Administration Block,service-point,5.650533,-0.185311,Patient registration
+L051,Cashier / Billing Point,Administration Block,service-point,5.649886,-0.18625,Payment counter
+L052,Blood Bank,Diagnostics Block,unit,5.650397,-0.185933,Blood storage and cross-matching
+L053,Specimen Collection Point,Diagnostics Block,service-point,5.650136,-0.185234,Sample collection
+L054,Sterilisation Unit (CSSD),Surgical Block,unit,5.650932,-0.185246,Central sterile supply
+L055,Linen / Laundry Unit,Support Services Block,unit,5.649814,-0.185333,Hospital linen services
+L056,Security Post / Main Gate,Administration Block,service-point,5.650612,-0.18607,Main entrance security
+L057,Staff Clinic,Administration Block,department,5.650437,-0.185919,Staff-only consulting
+L058,Health Records Archive,Administration Block,unit,5.650563,-0.18463,Long-term file archive
+L059,Waste Management Unit,Support Services Block,unit,5.650312,-0.184611,Clinical waste handling
+L060,Main Reception,Administration Block,service-point,5.650044,-0.184726,Hospital front desk
