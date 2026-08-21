@@ -1,5 +1,3 @@
-# University Hospital, Legon (University of Ghana Health Services Directorate) -- DCIT 308/204 Ghana Smart Service Operations Optimizer project dataset.
-# Department/unit names are grounded in the hospital's published structure (ug.edu.gh/healthservices/hospital-units, /services); coordinates are small offsets around the real University of Ghana, Legon campus (~5.6505N -0.1855W). Sub-wards, room-level service points, corridor distances/times/road-condition weights, request logs, and resource figures are plausible illustrative figures for the class project, NOT verified real hospital records (no real patient or staff data is used).
 locationId,name,area,type,latitude,longitude,notes
 L001,Out-Patient Department (OPD),OPD Block,department,5.650734,-0.184748,General adult out-patient consulting
 L002,Accident & Emergency Department,Emergency Block,department,5.651288,-0.185162,24-hour walk-in and ambulance intake

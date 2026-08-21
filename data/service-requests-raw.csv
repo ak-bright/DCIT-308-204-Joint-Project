@@ -1,5 +1,3 @@
-# University Hospital, Legon (University of Ghana Health Services Directorate) -- DCIT 308/204 Ghana Smart Service Operations Optimizer project dataset.
-# Department/unit names are grounded in the hospital's published structure (ug.edu.gh/healthservices/hospital-units, /services); coordinates are small offsets around the real University of Ghana, Legon campus (~5.6505N -0.1855W). Sub-wards, room-level service points, corridor distances/times/road-condition weights, request logs, and resource figures are plausible illustrative figures for the class project, NOT verified real hospital records (no real patient or staff data is used).
 requestId,source,destination,category,urgency,timeSubmitted,deadline,status
 SR0001,L032,L035,specimen-collection,3,2026-08-23T12:25,2026-08-23T14:25,PENDING
 SR0002,L052,L047,patient-transfer,3,2026-08-17T14:08,2026-08-17T16:25,PENDING
