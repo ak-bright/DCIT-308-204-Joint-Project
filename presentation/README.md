@@ -7,6 +7,4 @@
 Each member studies their own assigned topic independently for the oral defense —
 that part isn't a group deliverable and nothing needs to be submitted for it.
 
-DUE: Day 9 (rehearsal same day); submission-ready Day 10.
 
-STATUS: empty
