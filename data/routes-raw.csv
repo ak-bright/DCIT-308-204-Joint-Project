@@ -1,1 +1,121 @@
-fromLocationId,toLocationId,distance,travelTime,notes
+fromLocationId,toLocationId,distance,travelTime,roadConditionWeight,notes
+L056,L033,123.8,93,1.74,"under repair, partial obstruction"
+L012,L033,383.0,288,1.0,main corridor
+L014,L056,398.0,268,1.51,staircase link
+L037,L014,81.9,66,1.29,link corridor
+L013,L014,120.5,74,1.09,covered walkway
+L054,L013,220.3,176,1.26,link corridor
+L052,L037,165.7,124,1.79,"narrow corridor, trolley congestion"
+L001,L052,167.6,153,1.79,staircase link
+L057,L037,365.2,325,1.62,lift lobby link (peak-hour congestion)
+L035,L054,332.0,301,1.03,covered walkway
+L005,L012,261.8,202,1.46,lift lobby link (peak-hour congestion)
+L027,L057,188.3,128,1.72,lift lobby link (peak-hour congestion)
+L025,L001,380.4,254,1.61,lift lobby link (peak-hour congestion)
+L049,L012,316.9,278,1.31,external path
+L015,L025,191.6,125,1.27,ramp corridor
+L003,L037,397.2,319,1.18,service road
+L048,L033,313.2,191,1.09,covered walkway
+L011,L049,34.2,34,1.21,external path
+L055,L033,436.0,297,1.24,ramp corridor
+L009,L056,337.2,253,1.85,"under repair, partial obstruction"
+L031,L001,185.3,142,1.57,staircase link
+L006,L013,28.9,39,1.04,covered walkway
+L029,L031,357.0,290,1.56,lift lobby link (peak-hour congestion)
+L046,L009,442.9,331,1.66,staircase link
+L042,L005,102.5,82,1.13,link corridor
+L050,L049,43.5,41,1.28,link corridor
+L047,L006,440.4,277,1.46,lift lobby link (peak-hour congestion)
+L019,L057,320.5,280,1.4,external path
+L059,L054,356.2,283,1.83,"narrow corridor, trolley congestion"
+L043,L054,258.7,168,1.17,service road
+L028,L035,21.7,18,1.89,staircase link
+L026,L035,275.2,247,1.12,link corridor
+L007,L042,310.9,245,1.14,link corridor
+L018,L007,26.5,25,1.64,"under repair, partial obstruction"
+L039,L012,92.4,69,1.31,lift lobby link (peak-hour congestion)
+L058,L006,139.2,95,1.01,main corridor
+L004,L019,252.0,186,1.02,covered walkway
+L038,L048,87.7,58,1.22,link corridor
+L053,L048,361.4,287,1.03,covered walkway
+L020,L001,98.5,73,1.1,covered walkway
+L045,L015,280.1,194,1.16,service road
+L032,L025,112.4,87,1.15,service road
+L010,L006,273.3,221,1.06,main corridor
+L041,L003,319.1,209,1.31,ramp corridor
+L022,L020,347.0,255,1.77,"narrow corridor, trolley congestion"
+L002,L043,374.9,344,1.96,"narrow corridor, trolley congestion"
+L044,L035,94.8,62,1.34,ramp corridor
+L051,L027,227.0,216,1.04,main corridor
+L021,L041,168.2,122,1.28,link corridor
+L034,L015,312.7,258,1.21,ramp corridor
+L024,L029,374.1,265,1.11,link corridor
+L036,L048,281.9,229,1.03,main corridor
+L060,L004,374.3,260,2.37,"under repair, partial obstruction"
+L040,L033,236.8,222,1.71,lift lobby link (peak-hour congestion)
+L016,L021,248.3,152,1.72,staircase link
+L030,L015,429.6,268,1.02,main corridor
+L023,L031,438.4,289,1.66,lift lobby link (peak-hour congestion)
+L008,L053,357.9,282,1.39,ramp corridor
+L017,L019,405.7,281,1.15,link corridor
+L011,L060,116.7,105,1.69,lift lobby link (peak-hour congestion)
+L047,L017,239.9,187,1.06,service road
+L036,L056,362.7,272,1.32,ramp corridor
+L013,L016,115.0,93,1.15,service road
+L010,L019,131.9,113,1.01,covered walkway
+L006,L004,373.0,270,1.06,service road
+L041,L031,173.4,130,1.72,lift lobby link (peak-hour congestion)
+L026,L011,42.8,29,1.06,covered walkway
+L002,L038,435.9,281,2.07,"under repair, partial obstruction"
+L031,L044,155.4,106,1.13,link corridor
+L024,L007,435.1,284,1.55,"narrow corridor, trolley congestion"
+L029,L044,76.0,68,1.69,lift lobby link (peak-hour congestion)
+L031,L037,273.7,201,1.75,lift lobby link (peak-hour congestion)
+L055,L058,245.9,182,2.11,"under repair, partial obstruction"
+L030,L054,228.9,189,1.58,external path
+L056,L041,405.9,344,1.13,link corridor
+L041,L025,386.6,289,1.5,external path
+L014,L039,59.4,48,1.32,lift lobby link (peak-hour congestion)
+L011,L008,234.9,223,1.74,lift lobby link (peak-hour congestion)
+L002,L040,34.6,30,1.67,"under repair, partial obstruction"
+L058,L025,160.7,142,1.28,external path
+L018,L045,441.1,300,1.38,external path
+L031,L046,145.2,110,1.49,lift lobby link (peak-hour congestion)
+L030,L008,313.6,229,1.07,covered walkway
+L011,L040,84.8,77,1.16,service road
+L029,L016,58.6,51,1.15,service road
+L051,L047,143.1,90,1.28,external path
+L051,L052,239.4,170,1.74,"narrow corridor, trolley congestion"
+L015,L037,171.7,144,1.55,"narrow corridor, trolley congestion"
+L014,L016,433.9,314,1.0,covered walkway
+L054,L044,199.0,132,1.15,link corridor
+L004,L048,218.2,148,2.18,"under repair, partial obstruction"
+L025,L026,310.9,256,1.02,main corridor
+L026,L013,238.8,157,1.09,covered walkway
+L017,L060,116.2,82,1.56,lift lobby link (peak-hour congestion)
+L037,L018,223.8,181,1.18,service road
+L013,L009,301.1,210,1.4,ramp corridor
+L014,L027,160.9,149,1.42,"narrow corridor, trolley congestion"
+L026,L040,75.3,62,1.5,"narrow corridor, trolley congestion"
+L034,L028,286.0,255,1.27,link corridor
+L013,L003,197.9,162,1.71,"under repair, partial obstruction"
+L058,L040,163.1,139,1.01,covered walkway
+L007,L046,335.6,319,1.76,staircase link
+L019,L012,417.1,368,1.12,service road
+L059,L010,184.5,141,1.66,lift lobby link (peak-hour congestion)
+L005,L008,65.3,55,1.73,lift lobby link (peak-hour congestion)
+L034,L040,227.4,168,1.46,external path
+L045,L008,429.5,296,1.54,staircase link
+L052,L043,415.4,269,1.47,staircase link
+L014,L018,325.0,206,1.0,main corridor
+L030,L009,399.6,317,1.37,ramp corridor
+L018,L002,269.5,175,1.0,main corridor
+L055,L027,109.9,101,1.01,main corridor
+L012,L034,37.7,37,1.03,covered walkway
+L012,L001,363.1,290,1.51,external path
+L021,L036,112.1,81,1.15,service road
+L015,L059,351.4,291,1.69,"narrow corridor, trolley congestion"
+L054,L041,141.2,98,1.86,"narrow corridor, trolley congestion"
+L020,L006,111.2,81,1.52,external path
+L027,L008,98.8,89,1.19,link corridor
+L019,L047,64.1,53,1.21,ramp corridor
